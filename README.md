@@ -1,323 +1,249 @@
-独立开发者出海技术栈和工具: https://www.indietools.work/
+## A curated collection of useful web tools and online resources.
+> 个人收藏的开发工具、学习资源、AI 工具及有趣网站合集，持续更新中。
 
-// 海外号码免费短信接收
-https://sms-activate.io/freeNumbers
+---
 
-线性代数:
-	// 线性代数是什么
-	https://www.zhihu.com/question/489470968/answer/3117627141
-	 // 线性代数学习（英文版
-	https://immersivemath.com/ila/index.html
-算法：
-	// 引力布局算法
-	https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/force-directed.pdf
-	// 简易版引力布局
-	https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip
-	//《Hello 算法》：动画图解、一键运行的数据结构与算法教程。
-	https://www.hello-algo.com/chapter_hello_algo/
+## 📑 目录
 
-工作方面：
-	 //  阮一峰blog
-	 https://www.ruanyifeng.com/blog/
-	 // 前端学习
-	https://www.yuque.com/moyanfs/js/sty6vf
-	 // 图解计算机网络（图解计算机网络、操作系统、计算机组成、数据库
-	 https://xiaolincoding.com/
-	// 艺术喵 2 年前端面试心路历程
-	 https://juejin.cn/post/6844904113302568973?searchId=202310231114207FBC7FA23E007B31F00F
-	 // 文本转语音
-	 https://texttospeech.im/zh-CN
-	 // TensorRT是什么，有什么作用，如何使用
-	 [TensorRT是什么，有什么作用，如何使用-CSDN博客](https://blog.csdn.net/weixin_45277161/article/details/136566919)
-	 // 软件工程技术面试个人指南。
-	 https://github.com/kdn251/interviews/blob/master/README-zh-cn.md#%E5%9C%A8%E7%BA%BF%E7%BB%83%E4%B9%A0
-	 // 现代CPP
-	 https://github.com/federico-busato/Modern-CPP-Programming
-	 // 两百行实现虚拟DOM
-	 https://lazamar.github.io/virtual-dom/
-	 // 前端页面/组件生成神器(尝试docker启动)  %% 20240705成功运行 %%
-	 https://github.com/bravekingzhang/gpt-frontend-code-gen
-	 // 编程手册大全
-	 https://github.com/EbookFoundation/free-programming-books?tab=readme-ov-file
-	 // GraphRAG（Graph Retrieval-Augmented Generation）是一种结合了图数据库和检索增强生成技术的先进方法
-	 https://microsoft.github.io/graphrag/
-	 // 富文本编辑器推荐
-	 [javascript - 灵活可扩展，2023年值得尝试的13款富文本编辑器 - 前端自习课 - SegmentFault 思否](https://segmentfault.com/a/1190000043693122)
-	 // 每日技术博客
-	 https://daily-blog.chlinlearn.top/blogs/1
-	 //  RenderDoc：RenderDoc的任一版本都可以捕获32位进程
-	 [RenderDoc](https://renderdoc.org/)
-	 // CrossPaste: 跨设备的通用粘贴板
-	 https://github.com/CrossPaste/crosspaste-desktop
-	 // paython爬虫教程
-	 https://github.com/wistbean/learn_python3_spider
-	 // 游戏碰撞算法检测
-	 https://leanrada.com/notes/sweep-and-prune/
-	 // Magic UI：一个 React 组件库，目前有20多个组件，特点是都带有动画效果。
-	 https://magicui.design/
-	 // 魔搭社区
-	 https://modelscope.cn/home
-	 // 这个命令行工具可以在浏览器里面，打开本机的终端窗口，让用户在浏览器执行终端命令
-	 https://github.com/tsl0922/ttyd
-	 // 一份简要的初学者 SQL 教程
-	 https://gvwilson.github.io/sql-tutorial/
-	 // JS优化方案
-	 https://romgrk.com/posts/optimizing-javascript#0-avoid-work
-	 // 在线Json编辑器
-	 https://json4u.cn/editor
-	 // 如果自己搭建一台公开访问的服务器，怎么进行设置？
-	 https://becomesovran.com/blog/server-setup-basics.html
-	 // （开源）文字转图片工具
-	 https://github.com/byodian/oneimg
-	 // 跨平台的文本转语音的桌面工具，支持调用多个 API，免费使用
-	 https://github.com/ElmTran/praises
-	 // TypeScript 题库 [Type Challenge](https://github.com/type-challenges/type-challenges) 的网页版
-	 https://typeroom.cn/problems/all
-	 // 临时邮箱服务
-	 https://tempmail100.com/
-	 // 系统设计面试
-	 https://learning-guide.gitbook.io/system-design-interview
-	 // 一站式iframe生产器
-	 https://iframegenerator.top/
-	 // 一个为本地开发环境 localhost 提供 https 证书的工具
-	 https://github.com/anchordotdev/cli
-	 // GitHub 的数据分析与可视化平台，提供项目和用户的各种统计信息，以及排行榜和趋势榜。
-	 https://github-insights-pro.toolsnav.top/
-	 // 从浏览器分享你的屏幕给其他人
-	 https://screensharing.net/
-	 // 深入高可用系统原理与设计
-	 https://www.thebyte.com.cn/
-	 // 编程学习资源列表
-	 https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md
-	 // 基于 Web 的示意图可视化编辑器
-	 https://github.com/ishubin/schemio
-	 // 微软官方推出的工具，将各种格式的文件（主要是 Office 文件）转成 Markdown 格式
-	 https://markitdown.pro/
-	 // 非官方的windows资源管理器
-	 https://filepilot.tech/#top
-	 // React UI + elegant infrastructure for AI Copilots, in-app AI agents, AI chatbots, and AI-powered Textareas 🪁
-	 https://github.com/CopilotKit/CopilotKit
-	 // Proxmox 是现在很流行的虚拟机软件，本文介绍它在家庭实验室的10种用途。
-	 https://www.xda-developers.com/projects-i-host-on-my-proxmox-home-lab/
-	 // 字节开源的一款跨平台原生应用开发工具，使用 Web 语法，生成各个平台的原生应用，类似于 React Native。
-	 https://lynxjs.org/zh/
-	 // 免费的 PDF 文件翻译网站，比如英文 PDF 翻译成中文，保留排版不变。
-	 https://deeppdf.ai/pdf-translator
-	 // cloudflare博客（故障排查
-	 https://blog.cloudflare.com/zh-cn/
-	 // PairDrop，局域网传输文件的 Web 应用，[代码开源](https://github.com/schlagmichdoch/PairDrop)，类似于 [ShareDrop](https://github.com/szimek/sharedrop) 和 [LocalSend](https://localsend.org/zh-CN)
-	 https://pairdrop.net/
-	 // 开源的 Windows 10/11 平铺窗口管理器，键盘驱动。
-	 https://agent-kilo.github.io/jwno/
-	 // 基于 Astro 框架的文档网站生成工具。
-	 https://starlight.astro.build/getting-started/
-	 // 消息推送工具，向手机和桌面电脑推送消息，可以自搭建，也可以使用官方服务器
-	 https://github.com/binwiederhier/ntfy
-	 // 一个网页上的机器人识别工具，用作 CAPTCHA 方案，采用 SHA-256 工作量证明算法。
-	 https://github.com/tiagorangel1/cap
-	 // 苹果官方发布的 Mac 电脑运行 Linux 容器的工具。也就是说，Mac 电脑可以不装 Docker，就运行 Docker 容器。
-	 https://github.com/apple/container
-	 // 基于浏览器的 3D CAD 软件，代码开源。
-	 https://chili3d.com/
-	 // Oomol Studio 通过直观的视觉交互轻松连接代码片段和 API 服务，帮助用户缩短从想法到产品的距离
-	 https://oomol.com/zh-CN/
-	 // 免费的 PDF 文件翻译网站，比如英文 PDF 翻译成中文，保留排版不变。
-	 https://deeppdf.ai/pdf-translator
-	 // 开源白板工具（SaaS），一体化白板，包含思维导图、流程图、自由画等
-	 https://github.com/plait-board/drawnix
-	 // PageSpy 是一款用来调试 Web / 小程序 / 鸿蒙 APP 等平台项目的工具。
-	 https://github.com/HuolalaTech/page-spy-web/?tab=readme-ov-file
-	 // 在线的矢量图（SVG 文件）编辑工具。
-	 https://www.hyvector.com/
-	 // 404页面设计
-	 https://www.404s.design/
-	 // 字节出品开源跨平台开发框架
-	 https://lynxjs.org/zh/index.html
-	 // 在线协作 Excel
-	 https://github.com/nusr/excel
-	 // 一个开源的实验项目，用摄像头捕捉用户的目光移动，从而代替鼠标
-	 https://github.com/akchro/eyesite
-	 // 一个搜索下载 3D 图标的网站，现有近3000个图标。
-	 https://www.thiings.co/things
-	 // pdf在线转换器
-	 https://pp2pdf.com/
-	 // 一个基于浏览器的在线 C++ 学习环境，可以编辑/编译代码，并有 AI 的代码解释。
-	 https://www.adacpp.com/zh/landing
-	 // 一个为图片加上背景渐变色的在线工具。
-	 https://moocup.jaydip.me/
-	 // VS Code 的一个服务器版本，让用户通过浏览器使用这个代码编辑器，不需要本地安装
-	 https://github.com/coder/code-server
-	 // 绘制网络基础设施图的开源工具。
-	 https://github.com/stan-smith/FossFLOW
-	 // 这个网站将平面的 SVG 文件，免费转成 3D。
-	 https://www.svgto3d.com/zh/app
-	 // Rust快速入门
-	 https://github.com/InkSha/rust-tutorial
-	 // 静态 HTML 页面生成工具，内置各类模版，适合快速测试或展示网页
-	 https://github.com/GeekAtTeam/PageTemplatify
-	 // 一个 JS 库，提供 email 收发的所有功能。
-	 https://github.com/dahlia/upyo
-	 // http状态码详解
-	 https://evertpot.com/http/
-	 // 通过比较不同的计算机语言，学习新语言
-	 https://langshift.dev/#learning-path
-	 // 一个开源的 Windows 远程桌面工具，直接运行可执行文件打开远程桌面，无需配置和安装
-	 https://github.com/miroslavpejic85/p2p
-	 // 开源的 P2P 文件传输的网页应用，基于 WebRTC。
-	 https://github.com/MatrixSeven/file-transfer-go
-	 // 一个基于 Web 的动画编辑器，用来制作嵌入网页的 Excalidraw 手绘风格动画
-	 https://storymotion.video/
-	 // 数据可视化的桌面软件，会将数据集转成各种图形
-	 https://labplot.org/
-	 // 一个 Windows 应用，可以让 Windows 桌面变得像 Mac 桌面，同时集成了工作区和平铺式窗口管理器
-	 https://github.com/eythaann/Seelen-UI
-	 // 一个基于 Web 的图片编辑器，可以当作 PhotoShop 的简单替代品。
-	 https://paint.sumo.app/
-	 // html转pdf
-	 https://github.com/bkhtmltopdf/bkhtmltopdf?tab=readme-ov-file
-	 // 用于图像编辑的桌面软件，Photoshop 的替代品，被 Canva 公司收购后，现在可以免费下载使用。
-	 https://www.affinity.studio/
-	 // 一个基于终端的文本编辑器。
-	 https://github.com/sinelaw/fresh?tab=readme-ov-file
-	 // 一个命令行工具，通过分析 Git 仓库的提交时间，判断项目的编码工作强度和加班情况。
-	 https://github.com/hellodigua/code996
-	 // 一个免费服务，只要你的主机通过 SSH 连接到它的服务器，它就分配一个子域名，让你的主机暴露到互联网。
-	 https://tunnl.gg/
-	 // 输入 SQL 语句，就能生成数据库的实体-关系图。
-	 https://dbdiagram.io/home
-	 
-	 
+- [🚀 独立开发 / 出海工具](#-独立开发--出海工具)
+- [📐 数学 / 算法](#-数学--算法)
+- [💼 工作 / 技术学习](#-工作--技术学习)
+- [🌐 Web 3D](#-web-3d)
+- [🤖 AI 相关](#-ai-相关)
+- [🎨 其他 / 有趣网站](#-其他--有趣网站)
 
-web3D：
-	 [web3D库](https://github.com/topics/3d)
-	 // Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best
-	 [Babylon.js: Powerful, Beautiful, Simple, Open - Web-Based 3D At Its Best (babylonjs.com)](https://www.babylonjs.com/)
-	 // lume
-	 https://docs.lume.io/
-	 // 在线制作法线贴图
-	 https://nmap.bimant.com/
+---
 
-AI相关：
-	 // 免费在线人性化AI文本
-	https://humanize.im/zh-CN
-	// 一本 GPT4 生成的英语单词书，收入8000+常用单词，涵盖了词义、例句、词根词缀、变形、文化背景、记忆技巧和小故事。
-	https://ceelog.github.io/DictionaryByGPT4/index.html
-	// 在线抠图
-	https://modelscope.cn/studios/AI-ModelScope/background-removal
-	// AI换脸
-	https://github.com/idootop/MagicMirror
-	// 基于 AI 的口语对话练习应用
-	https://duck.orenoid.com/
-	// GIF 动图搜索，可对图片人物进行换脸。
-	https://aigif.net/
-	// 在线免费 AI OCR（图片文字识别）工具，灵感来自 [llama-ocr](https://github.com/Nutlope/llama-ocr)
-	https://functions-ocr.edgeone.app/
-	// AI调色盘
-	https://colorify.rocks/
-	// 基于 Flux.1-DEV 模型的 AI 图像生成网站，免费、无使用量限制、不需要注册。
-	https://raphael.app/zh
-	// 将播客或音频转录成文本，并给出摘要，基于 Next.js 和 OpenAI Whisper
-	https://podcast.zeabur.app/
-	// 在线的免费图像处理工具，提供多种 AI 功能，比如图片增强、去除水印、风格转换等十几种。
-	https://aiimageeditor.me/
-	// MCP 的一个目录站
-	https://mcpflow.io/home
-	// 一个 Go 语言写的网关服务，将已有的 API 转成 MCP 服务，无需改动任何代码。
-	https://github.com/AmoyLab/Unla
-	// AI 文档翻译
-	https://belindoc.com/zh
-	// Google文生图
-	https://aistudio.google.com/prompts/new_image
-	// 这个仓库收集了500+的 Nano Banana Pro 模型提示词，每一个提示词都有图片，超过一半提示词带有参数。
-	https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md
-	 // 一个开源的浏览器插件，收集 Nano Banana 模型的热门提示词，方便复用。
-	 https://glidea.github.io/banana-prompt-quicker/#gallery
-	 // ai去除水印
-	 https://clearcat.lingxiangtools.top/
+## 🚀 独立开发 / 出海工具
 
-其他：
-	//  MidJourney 有一个风格参数 Sref，指定生成图片的风格，该网站收集和分类各种 Sref 参
-	数。
-	https://midjourneysref.com/ 
-	// 一个在线软件，用来制作 2D 和 3D 的视频动画，After Effects 的替代品。
-	https://pikimov.com/
-	// 头像、封面画
-	https://www.pinterest.com/
-	// 抽象艺术风彩色背景
-	https://www.color4bg.com/zh-hans/
-	// 网页白板工具
-	https://floating-hands-whiteboard.vercel.app/
-	// 一个在线音效网站，提供多种自然环境音效以及白噪音。
-	https://soundbox.fun/
-	// 在线版的图像编辑器
-	https://graphite.rs/
-	https://editor.graphite.rs/
-	// 中文的数学教育网站，通过交互式可视化演示，讲解概率论知识
-	https://probability.visualized.fun/
-	// 免费生成各种音效，比如雨声、风声。
-	https://tiktokvoice.net/en/sounds-effect
-	// 截图美化
-	https://postspark.app/screenshot
-	 // google数据统计
-	 https://datacommons.org/
-	 // 小猫台灯，可以 3D 打印，提供源文件下载。
-	 https://www.printables.com/model/1076896-cat-cone-of-shame-lamp/files
-	 // 开源的 Python 脚本，用来下载抖音短视频。
-	 https://github.com/jiji262/douyin-downloader?tab=readme-ov-file
-	 // 一个儿童睡前故事网站，收集了全球经典的儿童睡前故事。
-	 https://beddystories.com/zh
-	 // 一个对着电脑摄像头的开源跑步游戏，检测用户动作来控制游戏角色在无限场景中奔跑，适合室内锻炼身体。
-	 https://github.com/Jamesun921/cam-run
-	 // AI佛经
-	 https://rushiwowen.co/
-	 // 全球地铁查询工具
-	 https://www.metrolinehub.com/zh
-	 // 开源的桌面宠物，支持 macOS、Windows 和 Linux
-	 https://github.com/ayangweb/BongoCat
-	 // 开源的条形码和二维码生成网站。
-	 https://barcode-maker.com/zh/Qrcode
-	 // 拼字幕
-	 https://quotemaker.cc/
-	 // 吉卜力工作室的官网，放出了它们几乎所有电影的几百张高清图。
-	 https://www.ghibli.jp/works/
-	 // 开源的游戏变速工具，通过调整 Windows 系统时间函数来实现游戏速度变化。
-	 https://github.com/game1024/OpenSpeedy
-	 // 宠物摸头 GIF 生成器
-	 https://www.petpetgif.com/
-	 // 搜索电影库，然后给出存在这句对白的片段
-	 https://www.playphrase.me/
-	 // 全球任意地点的一滴雨，会流到哪里？这个网站给出雨水的流动路径，点击下雨的地点，它会可视化雨水的地面路径。
-	 https://river-runner-global.samlearner.com/
-	 // 温度地图
-	 https://zoom.earth/maps/temperature/#view=30.674215,104.042667,10z/model=icon
-	 // 该网站对一些经典的诺基亚手机，进行了建模，可以 3D 查看，甚至可以开机，进入系统操作
-	 https://chaz.fun/
-	 // 快速生成透明图、纯色图、渐变图和网格图
-	 https://blankimage.net/zh
-	 // V站风格头像生成
-	 https://github.com/sehrgut/node-retricon
-	 // 一个在线的 Web 应用，一键将图片转成像素画，可以设置像素尺寸、颜色数量、调色板风格。
-	 https://imgtopixel.art/
-	 // 大麦抢票脚本 V1.0
-	 https://github.com/WECENG/ticket-purchase
-	 // 这个网站可以在画布上，添加动态生物和静态物体，然后播放给猫咪看。
-	 https://cat-tv.net/
-	 // 历史气温数据
-	 https://historicaltemperature.org/
-	 // 用 ASCII 码展示当天的月相（新月、弯月、满月）
-	 https://asciimoon.com/
-	 // 生命的大小
-	 https://neal.fun/size-of-life/
-	 // 费曼物理学
-	 https://www.feynmanlectures.caltech.edu/
-	 // zip炸弹
-	 https://www.bamsoftware.com/hacks/zipbomb/
-	 // 各种老游戏机的经典游戏，通过模拟器免费在线游玩。
-	 https://emulatorgamer.com/games
-	 // 赛博朋克风元素周期表
-	 https://github.com/SeanWong17/Future-Style-Periodic-Table
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| IndieTools | [indietools.work](https://www.indietools.work/) | 独立开发者出海技术栈和工具集合 |
+| SMS-Activate | [sms-activate.io](https://sms-activate.io/freeNumbers) | 海外号码免费短信接收 |
 
+---
 
+## 📐 数学 / 算法
 
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| 线性代数是什么 | [知乎](https://www.zhihu.com/question/489470968/answer/3117627141) | 线性代数入门解读 |
+| Immersive Math | [immersivemath.com](https://immersivemath.com/ila/index.html) | 沉浸式线性代数学习（英文） |
+| 引力布局算法 | [cs.brown.edu](https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/force-directed.pdf) | Force-Directed 引力布局算法论文 |
+| 简易版引力布局 | [p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip) | 可交互的引力布局 Demo |
+| 数据结构与算法 | [hello-algo.com](https://www.hello-algo.com/chapter_hello_algo/) | 动画图解、一键运行的数据结构与算法教程 |
 
+---
 
+## 💼 工作 / 技术学习
+
+### 📖 博客 & 文档
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| 阮一峰 Blog | [ruanyifeng.com](https://www.ruanyifeng.com/blog/) | 技术博客 |
+| 前端学习 | [yuque.com](https://www.yuque.com/moyanfs/js/sty6vf) | 前端系统学习文档 |
+| 小林 Coding | [xiaolincoding.com](https://xiaolincoding.com/) | 图解计算机网络、操作系统、组成原理、数据库 |
+| 前端面试心路历程 | [掘金](https://juejin.cn/post/6844904113302568973) | 艺术喵 2 年前端面试经验 |
+| 每日技术博客 | [daily-blog](https://daily-blog.chlinlearn.top/blogs/1) | 每日技术文章 |
+| Cloudflare 博客 | [blog.cloudflare.com](https://blog.cloudflare.com/zh-cn/) | 故障排查与技术分析 |
+| 深入高可用系统原理 | [thebyte.com.cn](https://www.thebyte.com.cn/) | 高可用系统设计原理与实践 |
+| 系统设计面试 | [gitbook](https://learning-guide.gitbook.io/system-design-interview) | 系统设计面试指南 |
+| HTTP 状态码详解 | [evertpot.com](https://evertpot.com/http/) | 每个 HTTP 状态码的详细解释 |
+
+### 🛠️ 开发工具 & 库
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| Magic UI | [magicui.design](https://magicui.design/) | 带动画效果的 React 组件库 |
+| CopilotKit | [github](https://github.com/CopilotKit/CopilotKit) | AI Copilot / 聊天机器人的 React UI 基础设施 |
+| gpt-frontend-code-gen | [github](https://github.com/bravekingzhang/gpt-frontend-code-gen) | 前端页面/组件 AI 生成工具 |
+| Virtual DOM（200行） | [lazamar.github.io](https://lazamar.github.io/virtual-dom/) | 200 行代码实现虚拟 DOM |
+| CrossPaste | [github](https://github.com/CrossPaste/crosspaste-desktop) | 跨设备通用剪贴板 |
+| ttyd | [github](https://github.com/tsl0922/ttyd) | 在浏览器中打开本机终端 |
+| code-server | [github](https://github.com/coder/code-server) | 浏览器版 VS Code |
+| PageSpy | [github](https://github.com/HuolalaTech/page-spy-web/) | 调试 Web/小程序/鸿蒙 APP 的工具 |
+| Lynx JS | [lynxjs.org](https://lynxjs.org/zh/) | 字节开源跨平台原生应用开发框架 |
+| ntfy | [github](https://github.com/binwiederhier/ntfy) | 消息推送工具，支持手机和桌面 |
+| PairDrop | [pairdrop.net](https://pairdrop.net/) | 局域网传输文件的 Web 应用 |
+| Oomol Studio | [oomol.com](https://oomol.com/zh-CN/) | 可视化连接代码片段与 API 服务 |
+| Seelen UI | [github](https://github.com/eythaann/Seelen-UI) | Windows 桌面 Mac 化 + 平铺窗口管理 |
+| Jwno | [github](https://agent-kilo.github.io/jwno/) | 开源 Windows 10/11 平铺窗口管理器 |
+| Apple Container | [github](https://github.com/apple/container) | Mac 无需 Docker 直接运行 Linux 容器 |
+| OpenSpeedy | [github](https://github.com/game1024/OpenSpeedy) | 开源游戏变速工具 |
+
+### 📚 学习资源
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| 软件工程面试指南 | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md) | 软件工程技术面试个人指南 |
+| Modern C++ Programming | [github](https://github.com/federico-busato/Modern-CPP-Programming) | 现代 C++ 编程教程 |
+| Rust 快速入门 | [github](https://github.com/InkSha/rust-tutorial) | Rust 语言快速入门教程 |
+| free-programming-books | [github](https://github.com/EbookFoundation/free-programming-books) | 编程手册大全 |
+| 编程学习资源（中文） | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表 |
+| Hello 算法 | [hello-algo.com](https://www.hello-algo.com/) | 动画图解算法教程 |
+| SQL 教程 | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/) | 初学者 SQL 教程 |
+| LangShift | [langshift.dev](https://langshift.dev/#learning-path) | 通过比较不同语言学习新编程语言 |
+| TypeScript 题库 | [typeroom.cn](https://typeroom.cn/problems/all) | Type Challenge 网页版 |
+| adacpp | [adacpp.com](https://www.adacpp.com/zh/landing) | 在线 C++ 学习环境，含 AI 代码解释 |
+
+### 🧰 实用在线工具
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| 文本转语音 | [texttospeech.im](https://texttospeech.im/zh-CN) | 在线文本转语音 |
+| 跨平台文本转语音 | [github](https://github.com/ElmTran/praises) | 桌面端 TTS，支持多个 API，免费 |
+| 在线 JSON 编辑器 | [json4u.cn](https://json4u.cn/editor) | 功能完善的在线 JSON 编辑器 |
+| 临时邮箱 | [tempmail100.com](https://tempmail100.com/) | 临时邮箱服务 |
+| iframe 生成器 | [iframegenerator.top](https://iframegenerator.top/) | 一站式 iframe 生成器 |
+| 屏幕共享 | [screensharing.net](https://screensharing.net/) | 从浏览器分享屏幕给他人 |
+| MarkItDown | [markitdown.pro](https://markitdown.pro/) | 微软出品，Office 文件转 Markdown |
+| dbdiagram | [dbdiagram.io](https://dbdiagram.io/home) | 输入 SQL 生成实体关系图 |
+| 文字转图片 | [github](https://github.com/byodian/oneimg) | 开源文字转图片工具 |
+| 在线 SVG 编辑 | [hyvector.com](https://www.hyvector.com/) | 在线矢量图编辑工具 |
+| SVG 转 3D | [svgto3d.com](https://www.svgto3d.com/zh/app) | 将平面 SVG 免费转成 3D |
+| html 转 pdf | [github](https://github.com/bkhtmltopdf/bkhtmltopdf) | HTML 转 PDF 工具 |
+| PDF 翻译 | [deeppdf.ai](https://deeppdf.ai/pdf-translator) | 保留排版的 PDF 翻译网站 |
+| pp2pdf | [pp2pdf.com](https://pp2pdf.com/) | PDF 在线转换器 |
+| GitHub 数据分析 | [toolsnav.top](https://github-insights-pro.toolsnav.top/) | GitHub 项目与用户数据可视化 |
+| 服务器搭建指南 | [becomesovran.com](https://becomesovran.com/blog/server-setup-basics.html) | 搭建公开访问服务器的基础配置 |
+| localhost HTTPS 证书 | [github](https://github.com/anchordotdev/cli) | 为本地开发环境提供 HTTPS 证书 |
+| tunnl | [tunnl.gg](https://tunnl.gg/) | SSH 连接后自动分配子域名，主机暴露到公网 |
+| GraphRAG | [microsoft.github.io](https://microsoft.github.io/graphrag/) | 微软图数据库+检索增强生成技术 |
+| 引力布局演示 | [editor.p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip) | 可交互引力布局 |
+| Schemio | [github](https://github.com/ishubin/schemio) | 基于 Web 的示意图可视化编辑器 |
+| FossFLOW | [github](https://github.com/stan-smith/FossFLOW) | 绘制网络基础设施图的开源工具 |
+| Drawnix | [github](https://github.com/plait-board/drawnix) | 开源白板工具，含思维导图、流程图 |
+| Chili3D | [chili3d.com](https://chili3d.com/) | 基于浏览器的 3D CAD 软件 |
+| code996 | [github](https://github.com/hellodigua/code996) | 通过 Git 提交时间分析项目加班情况 |
+| p2p 远程桌面 | [github](https://github.com/miroslavpejic85/p2p) | 开源 Windows 远程桌面，无需安装配置 |
+| file-transfer-go | [github](https://github.com/MatrixSeven/file-transfer-go) | 基于 WebRTC 的 P2P 文件传输 |
+| JS 优化方案 | [romgrk.com](https://romgrk.com/posts/optimizing-javascript#0-avoid-work) | JavaScript 性能优化实践 |
+| Python 爬虫教程 | [github](https://github.com/wistbean/learn_python3_spider) | Python 爬虫入门到进阶 |
+| 游戏碰撞算法 | [leanrada.com](https://leanrada.com/notes/sweep-and-prune/) | Sweep and Prune 碰撞检测算法 |
+| TensorRT 介绍 | [CSDN](https://blog.csdn.net/weixin_45277161/article/details/136566919) | TensorRT 使用指南 |
+| 富文本编辑器推荐 | [SegmentFault](https://segmentfault.com/a/1190000043693122) | 2023 年值得尝试的 13 款富文本编辑器 |
+| RenderDoc | [renderdoc.org](https://renderdoc.org/) | 图形调试工具 |
+| 魔搭社区 | [modelscope.cn](https://modelscope.cn/home) | 模型托管与开源社区 |
+| upyo | [github](https://github.com/dahlia/upyo) | JS 邮件收发库 |
+| Starlight | [astro.build](https://starlight.astro.build/getting-started/) | 基于 Astro 的文档网站生成工具 |
+| cap CAPTCHA | [github](https://github.com/tiagorangel1/cap) | 基于工作量证明的网页验证码方案 |
+| FilePilot | [filepilot.tech](https://filepilot.tech/#top) | 非官方 Windows 资源管理器替代 |
+| PageTemplatify | [github](https://github.com/GeekAtTeam/PageTemplatify) | 静态 HTML 页面快速生成工具 |
+| Affinity | [affinity.studio](https://www.affinity.studio/) | Photoshop 替代品，Canva 收购后免费 |
+| Proxmox 家庭实验室 | [xda-developers.com](https://www.xda-developers.com/projects-i-host-on-my-proxmox-home-lab/) | Proxmox 在家庭实验室的 10 种用途 |
+| LabPlot | [labplot.org](https://labplot.org/) | 数据可视化桌面软件 |
+| fresh 编辑器 | [github](https://github.com/sinelaw/fresh) | 基于终端的文本编辑器 |
+| eyesite | [github](https://github.com/akchro/eyesite) | 用摄像头捕捉目光代替鼠标 |
+
+---
+
+## 🌐 Web 3D
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| Web 3D 库合集 | [github.com/topics/3d](https://github.com/topics/3d) | GitHub 上的 3D 相关库 |
+| Babylon.js | [babylonjs.com](https://www.babylonjs.com/) | 强大的 Web 3D 引擎 |
+| Lume | [docs.lume.io](https://docs.lume.io/) | Web 3D 场景库 |
+| 在线法线贴图制作 | [nmap.bimant.com](https://nmap.bimant.com/) | 在线制作法线贴图 |
+
+---
+
+## 🤖 AI 相关
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| Humanize AI | [humanize.im](https://humanize.im/zh-CN) | 免费在线 AI 文本人性化工具 |
+| GPT4 英语词典 | [ceelog.github.io](https://ceelog.github.io/DictionaryByGPT4/index.html) | GPT4 生成，收录 8000+ 常用单词 |
+| 在线抠图 | [modelscope.cn](https://modelscope.cn/studios/AI-ModelScope/background-removal) | AI 自动抠图工具 |
+| MagicMirror | [github](https://github.com/idootop/MagicMirror) | AI 换脸工具 |
+| 口语对话练习 | [duck.orenoid.com](https://duck.orenoid.com/) | 基于 AI 的英语口语练习应用 |
+| AI GIF 换脸 | [aigif.net](https://aigif.net/) | GIF 动图搜索与换脸 |
+| 免费 AI OCR | [edgeone.app](https://functions-ocr.edgeone.app/) | 在线免费图片文字识别 |
+| AI 调色盘 | [colorify.rocks](https://colorify.rocks/) | AI 辅助调色工具 |
+| Raphael AI | [raphael.app](https://raphael.app/zh) | 基于 Flux.1-DEV 的免费 AI 图像生成 |
+| 播客转文字 | [podcast.zeabur.app](https://podcast.zeabur.app/) | 播客/音频转录与摘要，基于 Whisper |
+| AI 图像编辑 | [aiimageeditor.me](https://aiimageeditor.me/) | 图片增强、去水印、风格转换等 |
+| MCPFlow | [mcpflow.io](https://mcpflow.io/home) | MCP 目录站 |
+| Unla | [github](https://github.com/AmoyLab/Unla) | Go 语言网关，将 API 转成 MCP 服务 |
+| Belindoc | [belindoc.com](https://belindoc.com/zh) | AI 文档翻译 |
+| Google 文生图 | [aistudio.google.com](https://aistudio.google.com/prompts/new_image) | Google AI Studio 文生图 |
+| Nano Banana 提示词 | [github](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md) | 500+ Nano Banana Pro 模型提示词 |
+| Banana Prompt Quicker | [glidea.github.io](https://glidea.github.io/banana-prompt-quicker/#gallery) | 浏览器插件，收集热门提示词 |
+| AI 去水印 | [lingxiangtools.top](https://clearcat.lingxiangtools.top/) | AI 智能去除水印 |
+
+---
+
+## 🎨 其他 / 有趣网站
+
+### 🖼️ 设计 & 创意工具
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| Pikimov | [pikimov.com](https://pikimov.com/) | 在线 2D/3D 视频动画制作，After Effects 替代 |
+| Pinterest | [pinterest.com](https://www.pinterest.com/) | 头像、封面画灵感 |
+| Color4BG | [color4bg.com](https://www.color4bg.com/zh-hans/) | 抽象艺术风彩色背景生成 |
+| Graphite Editor | [editor.graphite.rs](https://editor.graphite.rs/) | 在线图像编辑器 |
+| PostSpark | [postspark.app](https://postspark.app/screenshot) | 截图美化工具 |
+| 404 页面设计 | [404s.design](https://www.404s.design/) | 404 页面设计灵感 |
+| 3D 图标搜索 | [thiings.co](https://www.thiings.co/things) | 搜索下载近 3000 个 3D 图标 |
+| BlankImage | [blankimage.net](https://blankimage.net/zh) | 快速生成透明/纯色/渐变/网格图 |
+| ImgToPixel | [imgtopixel.art](https://imgtopixel.art/) | 一键将图片转成像素画 |
+| 图片背景渐变 | [moocup.jaydip.me](https://moocup.jaydip.me/) | 为图片加上背景渐变色 |
+| StoryMotion | [storymotion.video](https://storymotion.video/) | 制作 Excalidraw 手绘风格动画 |
+| QuoteMaker | [quotemaker.cc](https://quotemaker.cc/) | 拼字幕工具 |
+| V 站风格头像 | [github](https://github.com/sehrgut/node-retricon) | V 站风格头像生成 |
+| Hyvector | [hyvector.com](https://www.hyvector.com/) | 在线 SVG 矢量图编辑 |
+
+### 🎵 音效 & 白噪音
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| SoundBox | [soundbox.fun](https://soundbox.fun/) | 自然环境音效与白噪音 |
+| TikTok 音效生成 | [tiktokvoice.net](https://tiktokvoice.net/en/sounds-effect) | 免费生成雨声、风声等音效 |
+
+### 🌍 数据 & 地图
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| Google Data Commons | [datacommons.org](https://datacommons.org/) | Google 公开数据统计平台 |
+| 全球地铁查询 | [metrolinehub.com](https://www.metrolinehub.com/zh) | 全球地铁线路查询工具 |
+| 温度地图 | [zoom.earth](https://zoom.earth/maps/temperature/#view=30.674215,104.042667,10z/model=icon) | 全球实时温度地图 |
+| River Runner | [samlearner.com](https://river-runner-global.samlearner.com/) | 可视化全球任意地点雨水流向路径 |
+| 历史气温数据 | [historicaltemperature.org](https://historicaltemperature.org/) | 历史气温数据查询 |
+
+### 😄 趣味 & 娱乐
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| 儿童睡前故事 | [beddystories.com](https://beddystories.com/zh) | 全球经典儿童睡前故事 |
+| AI 佛经 | [rushiwowen.co](https://rushiwowen.co/) | AI 生成佛经 |
+| Cat TV | [cat-tv.net](https://cat-tv.net/) | 在画布上添加动态生物给猫咪看 |
+| PetPet GIF | [petpetgif.com](https://www.petpetgif.com/) | 宠物摸头 GIF 生成器 |
+| PlayPhrase | [playphrase.me](https://www.playphrase.me/) | 搜索电影台词片段 |
+| BongoCat | [github](https://github.com/ayangweb/BongoCat) | 开源桌面宠物，支持多平台 |
+| Cam Run | [github](https://github.com/Jamesun921/cam-run) | 对着摄像头的开源跑步游戏 |
+| 吉卜力高清图 | [ghibli.jp](https://www.ghibli.jp/works/) | 吉卜力官方放出的几百张高清电影图 |
+| 复古诺基亚 | [chaz.fun](https://chaz.fun/) | 经典诺基亚手机 3D 建模，可开机操作 |
+| 经典游戏模拟器 | [emulatorgamer.com](https://emulatorgamer.com/games) | 老游戏机经典游戏在线游玩 |
+| ASCII 月相 | [asciimoon.com](https://asciimoon.com/) | 用 ASCII 展示当天月相 |
+| 生命的大小 | [neal.fun](https://neal.fun/size-of-life/) | 交互式探索生命大小对比 |
+| 赛博朋克元素周期表 | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table) | 赛博朋克风格元素周期表 |
+
+### 🔧 工具 & 实用
+
+| 名称 | 链接 | 说明 |
+|------|------|------|
+| 白板工具 | [floating-hands-whiteboard](https://floating-hands-whiteboard.vercel.app/) | 网页白板工具 |
+| 条形码/二维码生成 | [barcode-maker.com](https://barcode-maker.com/zh/Qrcode) | 开源二维码与条形码生成 |
+| 抖音视频下载 | [github](https://github.com/jiji262/douyin-downloader) | 开源 Python 脚本下载抖音视频 |
+| 大麦抢票脚本 | [github](https://github.com/WECENG/ticket-purchase) | 大麦网抢票脚本 |
+| 猫咪台灯 3D 打印 | [printables.com](https://www.printables.com/model/1076896-cat-cone-of-shame-lamp/files) | 小猫台灯 3D 打印源文件 |
+| 概率论可视化 | [probability.visualized.fun](https://probability.visualized.fun/) | 交互式概率论教学网站（中文） |
+| 费曼物理学 | [feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu/) | 费曼物理学讲义在线版 |
+| Zip 炸弹 | [bamsoftware.com](https://www.bamsoftware.com/hacks/zipbomb/) | Zip 炸弹技术介绍 |
+| MidJourney Sref | [midjourneysref.com](https://midjourneysref.com/) | MidJourney 风格参数 Sref 收集站 |
+
+---
+
+> 💡 **持续更新中**，欢迎 Star ⭐ 收藏！
