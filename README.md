@@ -71,6 +71,7 @@
 | Jwno | [github](https://agent-kilo.github.io/jwno/) | 开源 Windows 10/11 平铺窗口管理器 |
 | Apple Container | [github](https://github.com/apple/container) | Mac 无需 Docker 直接运行 Linux 容器 |
 | OpenSpeedy | [github](https://github.com/game1024/OpenSpeedy) | 开源游戏变速工具 |
+| JSLinux | [JSLinux](https://bellard.org/jslinux/) | Fabrice Bellard's JSLinux
 
 ### 📚 学习资源
 
