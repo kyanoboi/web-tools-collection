@@ -20,6 +20,7 @@
 |------|------|------|
 | IndieTools | [indietools.work](https://www.indietools.work/) | 独立开发者出海技术栈和工具集合 |
 | SMS-Activate | [sms-activate.io](https://sms-activate.io/freeNumbers) | 海外号码免费短信接收 |
+| PingMe | [PingMe](https://pingme.tel/) | 短信接收 |
 
 ---
 
