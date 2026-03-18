@@ -74,6 +74,7 @@
 | Apple Container | [github](https://github.com/apple/container) | Mac 无需 Docker 直接运行 Linux 容器 |
 | OpenSpeedy | [github](https://github.com/game1024/OpenSpeedy) | 开源游戏变速工具 |
 | JSLinux | [JSLinux](https://bellard.org/jslinux/) | Fabrice Bellard's JSLinux
+| Mole | [Mole](https://github.com/tw93/Mole) | 开源的 Mac 电脑清理和优化工具
 
 ### 📚 学习资源
 
@@ -174,6 +175,8 @@
 | Nano Banana 提示词 | [github](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md) | 500+ Nano Banana Pro 模型提示词 |
 | Banana Prompt Quicker | [glidea.github.io](https://glidea.github.io/banana-prompt-quicker/#gallery) | 浏览器插件，收集热门提示词 |
 | AI 去水印 | [lingxiangtools.top](https://clearcat.lingxiangtools.top/) | AI 智能去除水印 |
+| MicroGPT | [MicroGPT](https://growingswe.com/blog/microgpt) | MicroGPT 是一个200行的 Python 脚本 ，用来解释 ChatGPT 的原理。本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法 |
+| Page Agent | [Page Agent](https://github.com/alibaba/page-agent) | 只要在网页插入这个 JS 库，就可以使用自然语言操作页面，比如"点击导航栏的文档链接，总结其内容" |
 
 ---
 
@@ -214,6 +217,8 @@
 | 温度地图 | [zoom.earth](https://zoom.earth/maps/temperature/#view=30.674215,104.042667,10z/model=icon) | 全球实时温度地图 |
 | River Runner | [samlearner.com](https://river-runner-global.samlearner.com/) | 可视化全球任意地点雨水流向路径 |
 | 历史气温数据 | [historicaltemperature.org](https://historicaltemperature.org/) | 历史气温数据查询 |
+| World Monitor | [World Monitor](https://www.worldmonitor.app/) | 世界局势的一个实时看板，把各种消息源都放在一个网页里。 |
+
 
 ### 😄 趣味 & 娱乐
 
