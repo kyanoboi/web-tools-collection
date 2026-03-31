@@ -78,18 +78,19 @@
 
 ### 📚 学习资源
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| 软件工程面试指南 | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md) | 软件工程技术面试个人指南 |
-| Modern C++ Programming | [github](https://github.com/federico-busato/Modern-CPP-Programming) | 现代 C++ 编程教程 |
-| Rust 快速入门 | [github](https://github.com/InkSha/rust-tutorial) | Rust 语言快速入门教程 |
-| free-programming-books | [github](https://github.com/EbookFoundation/free-programming-books) | 编程手册大全 |
-| 编程学习资源（中文） | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表 |
-| Hello 算法 | [hello-algo.com](https://www.hello-algo.com/) | 动画图解算法教程 |
-| SQL 教程 | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/) | 初学者 SQL 教程 |
-| LangShift | [langshift.dev](https://langshift.dev/#learning-path) | 通过比较不同语言学习新编程语言 |
-| TypeScript 题库 | [typeroom.cn](https://typeroom.cn/problems/all) | Type Challenge 网页版 |
-| adacpp | [adacpp.com](https://www.adacpp.com/zh/landing) | 在线 C++ 学习环境，含 AI 代码解释 |
+| 名称                         | 链接                                                                                                               | 说明                                    |
+| -------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
+| 软件工程面试指南                   | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)                                       | 软件工程技术面试个人指南                          |
+| Modern C++ Programming     | [github](https://github.com/federico-busato/Modern-CPP-Programming)                                              | 现代 C++ 编程教程                           |
+| Rust 快速入门                  | [github](https://github.com/InkSha/rust-tutorial)                                                                | Rust 语言快速入门教程                         |
+| free-programming-books     | [github](https://github.com/EbookFoundation/free-programming-books)                                              | 编程手册大全                                |
+| 编程学习资源（中文）                 | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表                            |
+| Hello 算法                   | [hello-algo.com](https://www.hello-algo.com/)                                                                    | 动画图解算法教程                              |
+| SQL 教程                     | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/)                                                   | 初学者 SQL 教程                            |
+| LangShift                  | [langshift.dev](https://langshift.dev/#learning-path)                                                            | 通过比较不同语言学习新编程语言                       |
+| TypeScript 题库              | [typeroom.cn](https://typeroom.cn/problems/all)                                                                  | Type Challenge 网页版                    |
+| adacpp                     | [adacpp.com](https://www.adacpp.com/zh/landing)                                                                  | 在线 C++ 学习环境，含 AI 代码解释                 |
+| Algorithms with TypeScript | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。 |
 
 ### 🧰 实用在线工具
 
@@ -155,28 +156,31 @@
 
 ## 🤖 AI 相关
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| Humanize AI | [humanize.im](https://humanize.im/zh-CN) | 免费在线 AI 文本人性化工具 |
-| GPT4 英语词典 | [ceelog.github.io](https://ceelog.github.io/DictionaryByGPT4/index.html) | GPT4 生成，收录 8000+ 常用单词 |
-| 在线抠图 | [modelscope.cn](https://modelscope.cn/studios/AI-ModelScope/background-removal) | AI 自动抠图工具 |
-| MagicMirror | [github](https://github.com/idootop/MagicMirror) | AI 换脸工具 |
-| 口语对话练习 | [duck.orenoid.com](https://duck.orenoid.com/) | 基于 AI 的英语口语练习应用 |
-| AI GIF 换脸 | [aigif.net](https://aigif.net/) | GIF 动图搜索与换脸 |
-| 免费 AI OCR | [edgeone.app](https://functions-ocr.edgeone.app/) | 在线免费图片文字识别 |
-| AI 调色盘 | [colorify.rocks](https://colorify.rocks/) | AI 辅助调色工具 |
-| Raphael AI | [raphael.app](https://raphael.app/zh) | 基于 Flux.1-DEV 的免费 AI 图像生成 |
-| 播客转文字 | [podcast.zeabur.app](https://podcast.zeabur.app/) | 播客/音频转录与摘要，基于 Whisper |
-| AI 图像编辑 | [aiimageeditor.me](https://aiimageeditor.me/) | 图片增强、去水印、风格转换等 |
-| MCPFlow | [mcpflow.io](https://mcpflow.io/home) | MCP 目录站 |
-| Unla | [github](https://github.com/AmoyLab/Unla) | Go 语言网关，将 API 转成 MCP 服务 |
-| Belindoc | [belindoc.com](https://belindoc.com/zh) | AI 文档翻译 |
-| Google 文生图 | [aistudio.google.com](https://aistudio.google.com/prompts/new_image) | Google AI Studio 文生图 |
-| Nano Banana 提示词 | [github](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md) | 500+ Nano Banana Pro 模型提示词 |
-| Banana Prompt Quicker | [glidea.github.io](https://glidea.github.io/banana-prompt-quicker/#gallery) | 浏览器插件，收集热门提示词 |
-| AI 去水印 | [lingxiangtools.top](https://clearcat.lingxiangtools.top/) | AI 智能去除水印 |
-| MicroGPT | [MicroGPT](https://growingswe.com/blog/microgpt) | MicroGPT 是一个200行的 Python 脚本 ，用来解释 ChatGPT 的原理。本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法 |
-| Page Agent | [Page Agent](https://github.com/alibaba/page-agent) | 只要在网页插入这个 JS 库，就可以使用自然语言操作页面，比如"点击导航栏的文档链接，总结其内容" |
+| 名称                    | 链接                                                                                                  | 说明                                                                              |
+| --------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| Humanize AI           | [humanize.im](https://humanize.im/zh-CN)                                                            | 免费在线 AI 文本人性化工具                                                                 |
+| GPT4 英语词典             | [ceelog.github.io](https://ceelog.github.io/DictionaryByGPT4/index.html)                            | GPT4 生成，收录 8000+ 常用单词                                                           |
+| 在线抠图                  | [modelscope.cn](https://modelscope.cn/studios/AI-ModelScope/background-removal)                     | AI 自动抠图工具                                                                       |
+| MagicMirror           | [github](https://github.com/idootop/MagicMirror)                                                    | AI 换脸工具                                                                         |
+| 口语对话练习                | [duck.orenoid.com](https://duck.orenoid.com/)                                                       | 基于 AI 的英语口语练习应用                                                                 |
+| AI GIF 换脸             | [aigif.net](https://aigif.net/)                                                                     | GIF 动图搜索与换脸                                                                     |
+| 免费 AI OCR             | [edgeone.app](https://functions-ocr.edgeone.app/)                                                   | 在线免费图片文字识别                                                                      |
+| AI 调色盘                | [colorify.rocks](https://colorify.rocks/)                                                           | AI 辅助调色工具                                                                       |
+| Raphael AI            | [raphael.app](https://raphael.app/zh)                                                               | 基于 Flux.1-DEV 的免费 AI 图像生成                                                       |
+| 播客转文字                 | [podcast.zeabur.app](https://podcast.zeabur.app/)                                                   | 播客/音频转录与摘要，基于 Whisper                                                           |
+| AI 图像编辑               | [aiimageeditor.me](https://aiimageeditor.me/)                                                       | 图片增强、去水印、风格转换等                                                                  |
+| MCPFlow               | [mcpflow.io](https://mcpflow.io/home)                                                               | MCP 目录站                                                                         |
+| Unla                  | [github](https://github.com/AmoyLab/Unla)                                                           | Go 语言网关，将 API 转成 MCP 服务                                                         |
+| Belindoc              | [belindoc.com](https://belindoc.com/zh)                                                             | AI 文档翻译                                                                         |
+| Google 文生图            | [aistudio.google.com](https://aistudio.google.com/prompts/new_image)                                | Google AI Studio 文生图                                                            |
+| Nano Banana 提示词       | [github](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md) | 500+ Nano Banana Pro 模型提示词                                                      |
+| Banana Prompt Quicker | [glidea.github.io](https://glidea.github.io/banana-prompt-quicker/#gallery)                         | 浏览器插件，收集热门提示词                                                                   |
+| AI 去水印                | [lingxiangtools.top](https://clearcat.lingxiangtools.top/)                                          | AI 智能去除水印                                                                       |
+| MicroGPT              | [MicroGPT](https://growingswe.com/blog/microgpt)                                                    | MicroGPT 是一个200行的 Python 脚本 ，用来解释 ChatGPT 的原理。本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法 |
+| Page Agent            | [Page Agent](https://github.com/alibaba/page-agent)                                                 | 只要在网页插入这个 JS 库，就可以使用自然语言操作页面，比如"点击导航栏的文档链接，总结其内容"                               |
+| canirun.ai            | [[canirun.ai](https://www.canirun.ai/)](https://www.canirun.ai/)                                    | 网页检测你的机器，能够运行哪些本地的 AI 模型。                                                       |
+| AI Comic Builder      | [AI Comic Builder](https://github.com/twwch/AIComicBuilder)                                         | AI 驱动的漫剧生成器 — 从剧本到动画视频的全自动流水线。                                                  |
+| whats_ai              | [whats_ai](https://wmyskxz.cn/wiki/whats_ai/)                                                       | 面向普通读者的通俗 AI 原理教程                                                               |
 
 ---
 
