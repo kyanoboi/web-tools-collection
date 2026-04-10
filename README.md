@@ -55,26 +55,28 @@
 
 ### 🛠️ 开发工具 & 库
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| Magic UI | [magicui.design](https://magicui.design/) | 带动画效果的 React 组件库 |
-| CopilotKit | [github](https://github.com/CopilotKit/CopilotKit) | AI Copilot / 聊天机器人的 React UI 基础设施 |
-| gpt-frontend-code-gen | [github](https://github.com/bravekingzhang/gpt-frontend-code-gen) | 前端页面/组件 AI 生成工具 |
-| Virtual DOM（200行） | [lazamar.github.io](https://lazamar.github.io/virtual-dom/) | 200 行代码实现虚拟 DOM |
-| CrossPaste | [github](https://github.com/CrossPaste/crosspaste-desktop) | 跨设备通用剪贴板 |
-| ttyd | [github](https://github.com/tsl0922/ttyd) | 在浏览器中打开本机终端 |
-| code-server | [github](https://github.com/coder/code-server) | 浏览器版 VS Code |
-| PageSpy | [github](https://github.com/HuolalaTech/page-spy-web/) | 调试 Web/小程序/鸿蒙 APP 的工具 |
-| Lynx JS | [lynxjs.org](https://lynxjs.org/zh/) | 字节开源跨平台原生应用开发框架 |
-| ntfy | [github](https://github.com/binwiederhier/ntfy) | 消息推送工具，支持手机和桌面 |
-| PairDrop | [pairdrop.net](https://pairdrop.net/) | 局域网传输文件的 Web 应用 |
-| Oomol Studio | [oomol.com](https://oomol.com/zh-CN/) | 可视化连接代码片段与 API 服务 |
-| Seelen UI | [github](https://github.com/eythaann/Seelen-UI) | Windows 桌面 Mac 化 + 平铺窗口管理 |
-| Jwno | [github](https://agent-kilo.github.io/jwno/) | 开源 Windows 10/11 平铺窗口管理器 |
-| Apple Container | [github](https://github.com/apple/container) | Mac 无需 Docker 直接运行 Linux 容器 |
-| OpenSpeedy | [github](https://github.com/game1024/OpenSpeedy) | 开源游戏变速工具 |
-| JSLinux | [JSLinux](https://bellard.org/jslinux/) | Fabrice Bellard's JSLinux
-| Mole | [Mole](https://github.com/tw93/Mole) | 开源的 Mac 电脑清理和优化工具
+| 名称                    | 链接                                                                  | 说明                                                                      |
+| --------------------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------- |
+| Magic UI              | [magicui.design](https://magicui.design/)                           | 带动画效果的 React 组件库                                                        |
+| CopilotKit            | [github](https://github.com/CopilotKit/CopilotKit)                  | AI Copilot / 聊天机器人的 React UI 基础设施                                       |
+| gpt-frontend-code-gen | [github](https://github.com/bravekingzhang/gpt-frontend-code-gen)   | 前端页面/组件 AI 生成工具                                                         |
+| Virtual DOM（200行）     | [lazamar.github.io](https://lazamar.github.io/virtual-dom/)         | 200 行代码实现虚拟 DOM                                                         |
+| CrossPaste            | [github](https://github.com/CrossPaste/crosspaste-desktop)          | 跨设备通用剪贴板                                                                |
+| ttyd                  | [github](https://github.com/tsl0922/ttyd)                           | 在浏览器中打开本机终端                                                             |
+| code-server           | [github](https://github.com/coder/code-server)                      | 浏览器版 VS Code                                                            |
+| PageSpy               | [github](https://github.com/HuolalaTech/page-spy-web/)              | 调试 Web/小程序/鸿蒙 APP 的工具                                                   |
+| Lynx JS               | [lynxjs.org](https://lynxjs.org/zh/)                                | 字节开源跨平台原生应用开发框架                                                         |
+| ntfy                  | [github](https://github.com/binwiederhier/ntfy)                     | 消息推送工具，支持手机和桌面                                                          |
+| PairDrop              | [pairdrop.net](https://pairdrop.net/)                               | 局域网传输文件的 Web 应用                                                         |
+| Oomol Studio          | [oomol.com](https://oomol.com/zh-CN/)                               | 可视化连接代码片段与 API 服务                                                       |
+| Seelen UI             | [github](https://github.com/eythaann/Seelen-UI)                     | Windows 桌面 Mac 化 + 平铺窗口管理                                               |
+| Jwno                  | [github](https://agent-kilo.github.io/jwno/)                        | 开源 Windows 10/11 平铺窗口管理器                                                |
+| Apple Container       | [github](https://github.com/apple/container)                        | Mac 无需 Docker 直接运行 Linux 容器                                             |
+| OpenSpeedy            | [github](https://github.com/game1024/OpenSpeedy)                    | 开源游戏变速工具                                                                |
+| JSLinux               | [JSLinux](https://bellard.org/jslinux/)                             | Fabrice Bellard's JSLinux                                               |
+| Mole                  | [Mole](https://github.com/tw93/Mole)                                | 开源的 Mac 电脑清理和优化工具                                                       |
+| canvas-compress       | [canvas-compress](https://jstrieb.github.io/posts/canvas-compress/) | 本文介绍如何在前端，通过 canvas（画布）将数据压缩成一张图片。                                      |
+| Valdi                 | [Valdi](https://github.com/Snapchat/Valdi)                          | SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。 |
 
 ### 📚 学习资源
 
@@ -91,6 +93,7 @@
 | TypeScript 题库              | [typeroom.cn](https://typeroom.cn/problems/all)                                                                  | Type Challenge 网页版                    |
 | adacpp                     | [adacpp.com](https://www.adacpp.com/zh/landing)                                                                  | 在线 C++ 学习环境，含 AI 代码解释                 |
 | Algorithms with TypeScript | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。 |
+| TypeScript 简洁之书            | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                   |
 
 ### 🧰 实用在线工具
 
