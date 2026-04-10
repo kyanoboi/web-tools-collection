@@ -11,7 +11,6 @@ git diff --cached --quiet && (
 )
 
 echo [3/3] Git push...
-:: 独立出来的 push 操作，并加上了简单的失败提示
 git push && (
   echo Push successful!
 ) || (
