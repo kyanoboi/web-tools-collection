@@ -146,6 +146,7 @@
 | eyesite            | [github](https://github.com/akchro/eyesite)                                                  | 用摄像头捕捉目光代替鼠标                               |
 | Lixian.Online      | [Lixian.Online](https://lixian.online/)                                                      | 获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具 |
 | Rename.Tools       | [Rename.Tools](https://rename.tools/zh/app)                                                  | 浏览器端的批量文件重命名工具，支持各种规则设定                    |
+| Reze Studio        | [Reze Studio](https://github.com/AmyangXYZ/reze-studio)                                      | 开源的动画曲线编辑网站。                               |
 
 ---
 
@@ -251,18 +252,19 @@
 
 ### 🔧 工具 & 实用
 
-| 名称              | 链接                                                                                      | 说明                                                                 |
-| --------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------ |
-| 白板工具            | [floating-hands-whiteboard](https://floating-hands-whiteboard.vercel.app/)              | 网页白板工具                                                             |
-| 条形码/二维码生成       | [barcode-maker.com](https://barcode-maker.com/zh/Qrcode)                                | 开源二维码与条形码生成                                                        |
-| 抖音视频下载          | [github](https://github.com/jiji262/douyin-downloader)                                  | 开源 Python 脚本下载抖音视频                                                 |
-| 大麦抢票脚本          | [github](https://github.com/WECENG/ticket-purchase)                                     | 大麦网抢票脚本                                                            |
-| 猫咪台灯 3D 打印      | [printables.com](https://www.printables.com/model/1076896-cat-cone-of-shame-lamp/files) | 小猫台灯 3D 打印源文件                                                      |
-| 概率论可视化          | [probability.visualized.fun](https://probability.visualized.fun/)                       | 交互式概率论教学网站（中文）                                                     |
-| 费曼物理学           | [feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu/)                 | 费曼物理学讲义在线版                                                         |
-| Zip 炸弹          | [bamsoftware.com](https://www.bamsoftware.com/hacks/zipbomb/)                           | Zip 炸弹技术介绍                                                         |
-| MidJourney Sref | [midjourneysref.com](https://midjourneysref.com/)                                       | MidJourney 风格参数 Sref 收集站                                           |
-| sherlock        | [sherlock](https://github.com/sherlock-project/sherlock?tab=readme-ov-file)             | 通过用户名在整个社交网络中查找社交媒体账号 |                                                                                |                                                                    |
+| 名称              | 链接                                                                                      | 说明                               |     |     |
+| --------------- | --------------------------------------------------------------------------------------- | -------------------------------- | --- | --- |
+| 白板工具            | [floating-hands-whiteboard](https://floating-hands-whiteboard.vercel.app/)              | 网页白板工具                           |     |     |
+| 条形码/二维码生成       | [barcode-maker.com](https://barcode-maker.com/zh/Qrcode)                                | 开源二维码与条形码生成                      |     |     |
+| 抖音视频下载          | [github](https://github.com/jiji262/douyin-downloader)                                  | 开源 Python 脚本下载抖音视频               |     |     |
+| 大麦抢票脚本          | [github](https://github.com/WECENG/ticket-purchase)                                     | 大麦网抢票脚本                          |     |     |
+| 猫咪台灯 3D 打印      | [printables.com](https://www.printables.com/model/1076896-cat-cone-of-shame-lamp/files) | 小猫台灯 3D 打印源文件                    |     |     |
+| 概率论可视化          | [probability.visualized.fun](https://probability.visualized.fun/)                       | 交互式概率论教学网站（中文）                   |     |     |
+| 费曼物理学           | [feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu/)                 | 费曼物理学讲义在线版                       |     |     |
+| Zip 炸弹          | [bamsoftware.com](https://www.bamsoftware.com/hacks/zipbomb/)                           | Zip 炸弹技术介绍                       |     |     |
+| MidJourney Sref | [midjourneysref.com](https://midjourneysref.com/)                                       | MidJourney 风格参数 Sref 收集站         |     |     |
+| sherlock        | [sherlock](https://github.com/sherlock-project/sherlock?tab=readme-ov-file)             | 通过用户名在整个社交网络中查找社交媒体账号            |     |     |
+| Open Screen     | [Open Screen](https://github.com/siddharthvaddem/openscreen)                            | 跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。 |     |     |
 
 ---
 
