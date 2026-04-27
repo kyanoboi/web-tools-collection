@@ -77,6 +77,7 @@
 | Mole                  | [Mole](https://github.com/tw93/Mole)                                | 开源的 Mac 电脑清理和优化工具                                                       |
 | canvas-compress       | [canvas-compress](https://jstrieb.github.io/posts/canvas-compress/) | 本文介绍如何在前端，通过 canvas（画布）将数据压缩成一张图片。                                      |
 | Valdi                 | [Valdi](https://github.com/Snapchat/Valdi)                          | SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。 |
+| animal-island-ui      | [animal-island-ui](https://github.com/guokaigdg/animal-island-ui)   | 《动物森友会》风格的 React UI 组件库                                                 |
 
 ### 📚 学习资源
 
@@ -95,58 +96,60 @@
 | Algorithms with TypeScript | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。 |
 | TypeScript 简洁之书            | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                   |
 | 机器学习入门教程                   | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                    |
+| 软件工程定律                     | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                       |
 
 ### 🧰 实用在线工具
 
-| 名称                 | 链接                                                                                           | 说明                                         |
-| ------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------ |
-| 文本转语音              | [texttospeech.im](https://texttospeech.im/zh-CN)                                             | 在线文本转语音                                    |
-| 跨平台文本转语音           | [github](https://github.com/ElmTran/praises)                                                 | 桌面端 TTS，支持多个 API，免费                        |
-| 在线 JSON 编辑器        | [json4u.cn](https://json4u.cn/editor)                                                        | 功能完善的在线 JSON 编辑器                           |
-| 临时邮箱               | [tempmail100.com](https://tempmail100.com/)                                                  | 临时邮箱服务                                     |
-| iframe 生成器         | [iframegenerator.top](https://iframegenerator.top/)                                          | 一站式 iframe 生成器                             |
-| 屏幕共享               | [screensharing.net](https://screensharing.net/)                                              | 从浏览器分享屏幕给他人                                |
-| MarkItDown         | [markitdown.pro](https://markitdown.pro/)                                                    | 微软出品，Office 文件转 Markdown                   |
-| dbdiagram          | [dbdiagram.io](https://dbdiagram.io/home)                                                    | 输入 SQL 生成实体关系图                             |
-| 文字转图片              | [github](https://github.com/byodian/oneimg)                                                  | 开源文字转图片工具                                  |
-| 在线 SVG 编辑          | [hyvector.com](https://www.hyvector.com/)                                                    | 在线矢量图编辑工具                                  |
-| SVG 转 3D           | [svgto3d.com](https://www.svgto3d.com/zh/app)                                                | 将平面 SVG 免费转成 3D                            |
-| html 转 pdf         | [github](https://github.com/bkhtmltopdf/bkhtmltopdf)                                         | HTML 转 PDF 工具                              |
-| PDF 翻译             | [deeppdf.ai](https://deeppdf.ai/pdf-translator)                                              | 保留排版的 PDF 翻译网站                             |
-| pp2pdf             | [pp2pdf.com](https://pp2pdf.com/)                                                            | PDF 在线转换器                                  |
-| GitHub 数据分析        | [toolsnav.top](https://github-insights-pro.toolsnav.top/)                                    | GitHub 项目与用户数据可视化                          |
-| 服务器搭建指南            | [becomesovran.com](https://becomesovran.com/blog/server-setup-basics.html)                   | 搭建公开访问服务器的基础配置                             |
-| localhost HTTPS 证书 | [github](https://github.com/anchordotdev/cli)                                                | 为本地开发环境提供 HTTPS 证书                         |
-| tunnl              | [tunnl.gg](https://tunnl.gg/)                                                                | SSH 连接后自动分配子域名，主机暴露到公网                     |
-| GraphRAG           | [microsoft.github.io](https://microsoft.github.io/graphrag/)                                 | 微软图数据库+检索增强生成技术                            |
-| 引力布局演示             | [editor.p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip)                  | 可交互引力布局                                    |
-| Schemio            | [github](https://github.com/ishubin/schemio)                                                 | 基于 Web 的示意图可视化编辑器                          |
-| FossFLOW           | [github](https://github.com/stan-smith/FossFLOW)                                             | 绘制网络基础设施图的开源工具                             |
-| Drawnix            | [github](https://github.com/plait-board/drawnix)                                             | 开源白板工具，含思维导图、流程图                           |
-| Chili3D            | [chili3d.com](https://chili3d.com/)                                                          | 基于浏览器的 3D CAD 软件                           |
-| code996            | [github](https://github.com/hellodigua/code996)                                              | 通过 Git 提交时间分析项目加班情况                        |
-| p2p 远程桌面           | [github](https://github.com/miroslavpejic85/p2p)                                             | 开源 Windows 远程桌面，无需安装配置                     |
-| file-transfer-go   | [github](https://github.com/MatrixSeven/file-transfer-go)                                    | 基于 WebRTC 的 P2P 文件传输                       |
-| JS 优化方案            | [romgrk.com](https://romgrk.com/posts/optimizing-javascript#0-avoid-work)                    | JavaScript 性能优化实践                          |
-| Python 爬虫教程        | [github](https://github.com/wistbean/learn_python3_spider)                                   | Python 爬虫入门到进阶                             |
-| 游戏碰撞算法             | [leanrada.com](https://leanrada.com/notes/sweep-and-prune/)                                  | Sweep and Prune 碰撞检测算法                     |
-| TensorRT 介绍        | [CSDN](https://blog.csdn.net/weixin_45277161/article/details/136566919)                      | TensorRT 使用指南                              |
-| 富文本编辑器推荐           | [SegmentFault](https://segmentfault.com/a/1190000043693122)                                  | 2023 年值得尝试的 13 款富文本编辑器                     |
-| RenderDoc          | [renderdoc.org](https://renderdoc.org/)                                                      | 图形调试工具                                     |
-| 魔搭社区               | [modelscope.cn](https://modelscope.cn/home)                                                  | 模型托管与开源社区                                  |
-| upyo               | [github](https://github.com/dahlia/upyo)                                                     | JS 邮件收发库                                   |
-| Starlight          | [astro.build](https://starlight.astro.build/getting-started/)                                | 基于 Astro 的文档网站生成工具                         |
-| cap CAPTCHA        | [github](https://github.com/tiagorangel1/cap)                                                | 基于工作量证明的网页验证码方案                            |
-| FilePilot          | [filepilot.tech](https://filepilot.tech/#top)                                                | 非官方 Windows 资源管理器替代                        |
-| PageTemplatify     | [github](https://github.com/GeekAtTeam/PageTemplatify)                                       | 静态 HTML 页面快速生成工具                           |
-| Affinity           | [affinity.studio](https://www.affinity.studio/)                                              | Photoshop 替代品，Canva 收购后免费                  |
-| Proxmox 家庭实验室      | [xda-developers.com](https://www.xda-developers.com/projects-i-host-on-my-proxmox-home-lab/) | Proxmox 在家庭实验室的 10 种用途                     |
-| LabPlot            | [labplot.org](https://labplot.org/)                                                          | 数据可视化桌面软件                                  |
-| fresh 编辑器          | [github](https://github.com/sinelaw/fresh)                                                   | 基于终端的文本编辑器                                 |
-| eyesite            | [github](https://github.com/akchro/eyesite)                                                  | 用摄像头捕捉目光代替鼠标                               |
-| Lixian.Online      | [Lixian.Online](https://lixian.online/)                                                      | 获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具 |
-| Rename.Tools       | [Rename.Tools](https://rename.tools/zh/app)                                                  | 浏览器端的批量文件重命名工具，支持各种规则设定                    |
-| Reze Studio        | [Reze Studio](https://github.com/AmyangXYZ/reze-studio)                                      | 开源的动画曲线编辑网站。                               |
+| 名称                 | 链接                                                                                           | 说明                                           |
+| ------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 文本转语音              | [texttospeech.im](https://texttospeech.im/zh-CN)                                             | 在线文本转语音                                      |
+| 跨平台文本转语音           | [github](https://github.com/ElmTran/praises)                                                 | 桌面端 TTS，支持多个 API，免费                          |
+| 在线 JSON 编辑器        | [json4u.cn](https://json4u.cn/editor)                                                        | 功能完善的在线 JSON 编辑器                             |
+| 临时邮箱               | [tempmail100.com](https://tempmail100.com/)                                                  | 临时邮箱服务                                       |
+| iframe 生成器         | [iframegenerator.top](https://iframegenerator.top/)                                          | 一站式 iframe 生成器                               |
+| 屏幕共享               | [screensharing.net](https://screensharing.net/)                                              | 从浏览器分享屏幕给他人                                  |
+| MarkItDown         | [markitdown.pro](https://markitdown.pro/)                                                    | 微软出品，Office 文件转 Markdown                     |
+| dbdiagram          | [dbdiagram.io](https://dbdiagram.io/home)                                                    | 输入 SQL 生成实体关系图                               |
+| 文字转图片              | [github](https://github.com/byodian/oneimg)                                                  | 开源文字转图片工具                                    |
+| 在线 SVG 编辑          | [hyvector.com](https://www.hyvector.com/)                                                    | 在线矢量图编辑工具                                    |
+| SVG 转 3D           | [svgto3d.com](https://www.svgto3d.com/zh/app)                                                | 将平面 SVG 免费转成 3D                              |
+| html 转 pdf         | [github](https://github.com/bkhtmltopdf/bkhtmltopdf)                                         | HTML 转 PDF 工具                                |
+| PDF 翻译             | [deeppdf.ai](https://deeppdf.ai/pdf-translator)                                              | 保留排版的 PDF 翻译网站                               |
+| pp2pdf             | [pp2pdf.com](https://pp2pdf.com/)                                                            | PDF 在线转换器                                    |
+| GitHub 数据分析        | [toolsnav.top](https://github-insights-pro.toolsnav.top/)                                    | GitHub 项目与用户数据可视化                            |
+| 服务器搭建指南            | [becomesovran.com](https://becomesovran.com/blog/server-setup-basics.html)                   | 搭建公开访问服务器的基础配置                               |
+| localhost HTTPS 证书 | [github](https://github.com/anchordotdev/cli)                                                | 为本地开发环境提供 HTTPS 证书                           |
+| tunnl              | [tunnl.gg](https://tunnl.gg/)                                                                | SSH 连接后自动分配子域名，主机暴露到公网                       |
+| GraphRAG           | [microsoft.github.io](https://microsoft.github.io/graphrag/)                                 | 微软图数据库+检索增强生成技术                              |
+| 引力布局演示             | [editor.p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip)                  | 可交互引力布局                                      |
+| Schemio            | [github](https://github.com/ishubin/schemio)                                                 | 基于 Web 的示意图可视化编辑器                            |
+| FossFLOW           | [github](https://github.com/stan-smith/FossFLOW)                                             | 绘制网络基础设施图的开源工具                               |
+| Drawnix            | [github](https://github.com/plait-board/drawnix)                                             | 开源白板工具，含思维导图、流程图                             |
+| Chili3D            | [chili3d.com](https://chili3d.com/)                                                          | 基于浏览器的 3D CAD 软件                             |
+| code996            | [github](https://github.com/hellodigua/code996)                                              | 通过 Git 提交时间分析项目加班情况                          |
+| p2p 远程桌面           | [github](https://github.com/miroslavpejic85/p2p)                                             | 开源 Windows 远程桌面，无需安装配置                       |
+| file-transfer-go   | [github](https://github.com/MatrixSeven/file-transfer-go)                                    | 基于 WebRTC 的 P2P 文件传输                         |
+| JS 优化方案            | [romgrk.com](https://romgrk.com/posts/optimizing-javascript#0-avoid-work)                    | JavaScript 性能优化实践                            |
+| Python 爬虫教程        | [github](https://github.com/wistbean/learn_python3_spider)                                   | Python 爬虫入门到进阶                               |
+| 游戏碰撞算法             | [leanrada.com](https://leanrada.com/notes/sweep-and-prune/)                                  | Sweep and Prune 碰撞检测算法                       |
+| TensorRT 介绍        | [CSDN](https://blog.csdn.net/weixin_45277161/article/details/136566919)                      | TensorRT 使用指南                                |
+| 富文本编辑器推荐           | [SegmentFault](https://segmentfault.com/a/1190000043693122)                                  | 2023 年值得尝试的 13 款富文本编辑器                       |
+| RenderDoc          | [renderdoc.org](https://renderdoc.org/)                                                      | 图形调试工具                                       |
+| 魔搭社区               | [modelscope.cn](https://modelscope.cn/home)                                                  | 模型托管与开源社区                                    |
+| upyo               | [github](https://github.com/dahlia/upyo)                                                     | JS 邮件收发库                                     |
+| Starlight          | [astro.build](https://starlight.astro.build/getting-started/)                                | 基于 Astro 的文档网站生成工具                           |
+| cap CAPTCHA        | [github](https://github.com/tiagorangel1/cap)                                                | 基于工作量证明的网页验证码方案                              |
+| FilePilot          | [filepilot.tech](https://filepilot.tech/#top)                                                | 非官方 Windows 资源管理器替代                          |
+| PageTemplatify     | [github](https://github.com/GeekAtTeam/PageTemplatify)                                       | 静态 HTML 页面快速生成工具                             |
+| Affinity           | [affinity.studio](https://www.affinity.studio/)                                              | Photoshop 替代品，Canva 收购后免费                    |
+| Proxmox 家庭实验室      | [xda-developers.com](https://www.xda-developers.com/projects-i-host-on-my-proxmox-home-lab/) | Proxmox 在家庭实验室的 10 种用途                       |
+| LabPlot            | [labplot.org](https://labplot.org/)                                                          | 数据可视化桌面软件                                    |
+| fresh 编辑器          | [github](https://github.com/sinelaw/fresh)                                                   | 基于终端的文本编辑器                                   |
+| eyesite            | [github](https://github.com/akchro/eyesite)                                                  | 用摄像头捕捉目光代替鼠标                                 |
+| Lixian.Online      | [Lixian.Online](https://lixian.online/)                                                      | 获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具   |
+| Rename.Tools       | [Rename.Tools](https://rename.tools/zh/app)                                                  | 浏览器端的批量文件重命名工具，支持各种规则设定                      |
+| Reze Studio        | [Reze Studio](https://github.com/AmyangXYZ/reze-studio)                                      | 开源的动画曲线编辑网站。                                 |
+| WatermarkZero      | [WatermarkZero](https://watermarkzero.org/)                                                  | Gemini 生成图片的可见水印去除工具，图片不需要上传到服务器，直接在本地浏览器处理。 |
 
 ---
 
@@ -234,37 +237,39 @@
 
 ### 😄 趣味 & 娱乐
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| 儿童睡前故事 | [beddystories.com](https://beddystories.com/zh) | 全球经典儿童睡前故事 |
-| AI 佛经 | [rushiwowen.co](https://rushiwowen.co/) | AI 生成佛经 |
-| Cat TV | [cat-tv.net](https://cat-tv.net/) | 在画布上添加动态生物给猫咪看 |
-| PetPet GIF | [petpetgif.com](https://www.petpetgif.com/) | 宠物摸头 GIF 生成器 |
-| PlayPhrase | [playphrase.me](https://www.playphrase.me/) | 搜索电影台词片段 |
-| BongoCat | [github](https://github.com/ayangweb/BongoCat) | 开源桌面宠物，支持多平台 |
-| Cam Run | [github](https://github.com/Jamesun921/cam-run) | 对着摄像头的开源跑步游戏 |
-| 吉卜力高清图 | [ghibli.jp](https://www.ghibli.jp/works/) | 吉卜力官方放出的几百张高清电影图 |
-| 复古诺基亚 | [chaz.fun](https://chaz.fun/) | 经典诺基亚手机 3D 建模，可开机操作 |
-| 经典游戏模拟器 | [emulatorgamer.com](https://emulatorgamer.com/games) | 老游戏机经典游戏在线游玩 |
-| ASCII 月相 | [asciimoon.com](https://asciimoon.com/) | 用 ASCII 展示当天月相 |
-| 生命的大小 | [neal.fun](https://neal.fun/size-of-life/) | 交互式探索生命大小对比 |
-| 赛博朋克元素周期表 | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table) | 赛博朋克风格元素周期表 |
+| 名称          | 链接                                                                  | 说明                  |
+| ----------- | ------------------------------------------------------------------- | ------------------- |
+| 儿童睡前故事      | [beddystories.com](https://beddystories.com/zh)                     | 全球经典儿童睡前故事          |
+| AI 佛经       | [rushiwowen.co](https://rushiwowen.co/)                             | AI 生成佛经             |
+| Cat TV      | [cat-tv.net](https://cat-tv.net/)                                   | 在画布上添加动态生物给猫咪看      |
+| PetPet GIF  | [petpetgif.com](https://www.petpetgif.com/)                         | 宠物摸头 GIF 生成器        |
+| PlayPhrase  | [playphrase.me](https://www.playphrase.me/)                         | 搜索电影台词片段            |
+| BongoCat    | [github](https://github.com/ayangweb/BongoCat)                      | 开源桌面宠物，支持多平台        |
+| Cam Run     | [github](https://github.com/Jamesun921/cam-run)                     | 对着摄像头的开源跑步游戏        |
+| 吉卜力高清图      | [ghibli.jp](https://www.ghibli.jp/works/)                           | 吉卜力官方放出的几百张高清电影图    |
+| 复古诺基亚       | [chaz.fun](https://chaz.fun/)                                       | 经典诺基亚手机 3D 建模，可开机操作 |
+| 经典游戏模拟器     | [emulatorgamer.com](https://emulatorgamer.com/games)                | 老游戏机经典游戏在线游玩        |
+| ASCII 月相    | [asciimoon.com](https://asciimoon.com/)                             | 用 ASCII 展示当天月相      |
+| 生命的大小       | [neal.fun](https://neal.fun/size-of-life/)                          | 交互式探索生命大小对比         |
+| 赛博朋克元素周期表   | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table) | 赛博朋克风格元素周期表         |
+| guide.world | [guide.world](https://guide.world/)                                 | 这个网站收集世界各地的优秀游记散文   |
 
 ### 🔧 工具 & 实用
 
-| 名称              | 链接                                                                                      | 说明                               |     |     |
-| --------------- | --------------------------------------------------------------------------------------- | -------------------------------- | --- | --- |
-| 白板工具            | [floating-hands-whiteboard](https://floating-hands-whiteboard.vercel.app/)              | 网页白板工具                           |     |     |
-| 条形码/二维码生成       | [barcode-maker.com](https://barcode-maker.com/zh/Qrcode)                                | 开源二维码与条形码生成                      |     |     |
-| 抖音视频下载          | [github](https://github.com/jiji262/douyin-downloader)                                  | 开源 Python 脚本下载抖音视频               |     |     |
-| 大麦抢票脚本          | [github](https://github.com/WECENG/ticket-purchase)                                     | 大麦网抢票脚本                          |     |     |
-| 猫咪台灯 3D 打印      | [printables.com](https://www.printables.com/model/1076896-cat-cone-of-shame-lamp/files) | 小猫台灯 3D 打印源文件                    |     |     |
-| 概率论可视化          | [probability.visualized.fun](https://probability.visualized.fun/)                       | 交互式概率论教学网站（中文）                   |     |     |
-| 费曼物理学           | [feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu/)                 | 费曼物理学讲义在线版                       |     |     |
-| Zip 炸弹          | [bamsoftware.com](https://www.bamsoftware.com/hacks/zipbomb/)                           | Zip 炸弹技术介绍                       |     |     |
-| MidJourney Sref | [midjourneysref.com](https://midjourneysref.com/)                                       | MidJourney 风格参数 Sref 收集站         |     |     |
-| sherlock        | [sherlock](https://github.com/sherlock-project/sherlock?tab=readme-ov-file)             | 通过用户名在整个社交网络中查找社交媒体账号            |     |     |
-| Open Screen     | [Open Screen](https://github.com/siddharthvaddem/openscreen)                            | 跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。 |     |     |
+| 名称              | 链接                                                                                      | 说明                                                       |
+| --------------- | --------------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| 白板工具            | [floating-hands-whiteboard](https://floating-hands-whiteboard.vercel.app/)              | 网页白板工具                                                   |
+| 条形码/二维码生成       | [barcode-maker.com](https://barcode-maker.com/zh/Qrcode)                                | 开源二维码与条形码生成                                              |
+| 抖音视频下载          | [github](https://github.com/jiji262/douyin-downloader)                                  | 开源 Python 脚本下载抖音视频                                       |
+| 大麦抢票脚本          | [github](https://github.com/WECENG/ticket-purchase)                                     | 大麦网抢票脚本                                                  |
+| 猫咪台灯 3D 打印      | [printables.com](https://www.printables.com/model/1076896-cat-cone-of-shame-lamp/files) | 小猫台灯 3D 打印源文件                                            |
+| 概率论可视化          | [probability.visualized.fun](https://probability.visualized.fun/)                       | 交互式概率论教学网站（中文）                                           |
+| 费曼物理学           | [feynmanlectures.caltech.edu](https://www.feynmanlectures.caltech.edu/)                 | 费曼物理学讲义在线版                                               |
+| Zip 炸弹          | [bamsoftware.com](https://www.bamsoftware.com/hacks/zipbomb/)                           | Zip 炸弹技术介绍                                               |
+| MidJourney Sref | [midjourneysref.com](https://midjourneysref.com/)                                       | MidJourney 风格参数 Sref 收集站                                 |
+| sherlock        | [sherlock](https://github.com/sherlock-project/sherlock?tab=readme-ov-file)             | 通过用户名在整个社交网络中查找社交媒体账号                                    |
+| Open Screen     | [Open Screen](https://github.com/siddharthvaddem/openscreen)                            | 跨平台的桌面应用，用来录屏后制作介绍视频，提供各种配套编辑功能。                         |
+| Recordly        | [Recordly](https://github.com/webadderallorg/Recordly)                                  | 开源的录屏与编辑工具，适用于制作演示、产品展示、教程、讲解视频等，可以录制整个屏幕或单个窗口，并直接进入编辑器。 |
 
 ---
 
