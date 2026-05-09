@@ -97,6 +97,7 @@
 | TypeScript 简洁之书            | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                   |
 | 机器学习入门教程                   | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                    |
 | 软件工程定律                     | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                       |
+| 现代 C++ 编程                  | [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)                                           | 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。 |
 
 ### 🧰 实用在线工具
 
