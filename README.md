@@ -98,59 +98,63 @@
 | 机器学习入门教程                   | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                    |
 | 软件工程定律                     | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                       |
 | 现代 C++ 编程                  | [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)                                           | 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。 |
+| MathNet                    | [MathNet]([MathNet](https://mathnet.mit.edu/))                                                                   | 麻省理工学院维护的一个网站，收集了3万多道数学题。             |
 
 ### 🧰 实用在线工具
 
-| 名称                 | 链接                                                                                           | 说明                                           |
-| ------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------- |
-| 文本转语音              | [texttospeech.im](https://texttospeech.im/zh-CN)                                             | 在线文本转语音                                      |
-| 跨平台文本转语音           | [github](https://github.com/ElmTran/praises)                                                 | 桌面端 TTS，支持多个 API，免费                          |
-| 在线 JSON 编辑器        | [json4u.cn](https://json4u.cn/editor)                                                        | 功能完善的在线 JSON 编辑器                             |
-| 临时邮箱               | [tempmail100.com](https://tempmail100.com/)                                                  | 临时邮箱服务                                       |
-| iframe 生成器         | [iframegenerator.top](https://iframegenerator.top/)                                          | 一站式 iframe 生成器                               |
-| 屏幕共享               | [screensharing.net](https://screensharing.net/)                                              | 从浏览器分享屏幕给他人                                  |
-| MarkItDown         | [markitdown.pro](https://markitdown.pro/)                                                    | 微软出品，Office 文件转 Markdown                     |
-| dbdiagram          | [dbdiagram.io](https://dbdiagram.io/home)                                                    | 输入 SQL 生成实体关系图                               |
-| 文字转图片              | [github](https://github.com/byodian/oneimg)                                                  | 开源文字转图片工具                                    |
-| 在线 SVG 编辑          | [hyvector.com](https://www.hyvector.com/)                                                    | 在线矢量图编辑工具                                    |
-| SVG 转 3D           | [svgto3d.com](https://www.svgto3d.com/zh/app)                                                | 将平面 SVG 免费转成 3D                              |
-| html 转 pdf         | [github](https://github.com/bkhtmltopdf/bkhtmltopdf)                                         | HTML 转 PDF 工具                                |
-| PDF 翻译             | [deeppdf.ai](https://deeppdf.ai/pdf-translator)                                              | 保留排版的 PDF 翻译网站                               |
-| pp2pdf             | [pp2pdf.com](https://pp2pdf.com/)                                                            | PDF 在线转换器                                    |
-| GitHub 数据分析        | [toolsnav.top](https://github-insights-pro.toolsnav.top/)                                    | GitHub 项目与用户数据可视化                            |
-| 服务器搭建指南            | [becomesovran.com](https://becomesovran.com/blog/server-setup-basics.html)                   | 搭建公开访问服务器的基础配置                               |
-| localhost HTTPS 证书 | [github](https://github.com/anchordotdev/cli)                                                | 为本地开发环境提供 HTTPS 证书                           |
-| tunnl              | [tunnl.gg](https://tunnl.gg/)                                                                | SSH 连接后自动分配子域名，主机暴露到公网                       |
-| GraphRAG           | [microsoft.github.io](https://microsoft.github.io/graphrag/)                                 | 微软图数据库+检索增强生成技术                              |
-| 引力布局演示             | [editor.p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip)                  | 可交互引力布局                                      |
-| Schemio            | [github](https://github.com/ishubin/schemio)                                                 | 基于 Web 的示意图可视化编辑器                            |
-| FossFLOW           | [github](https://github.com/stan-smith/FossFLOW)                                             | 绘制网络基础设施图的开源工具                               |
-| Drawnix            | [github](https://github.com/plait-board/drawnix)                                             | 开源白板工具，含思维导图、流程图                             |
-| Chili3D            | [chili3d.com](https://chili3d.com/)                                                          | 基于浏览器的 3D CAD 软件                             |
-| code996            | [github](https://github.com/hellodigua/code996)                                              | 通过 Git 提交时间分析项目加班情况                          |
-| p2p 远程桌面           | [github](https://github.com/miroslavpejic85/p2p)                                             | 开源 Windows 远程桌面，无需安装配置                       |
-| file-transfer-go   | [github](https://github.com/MatrixSeven/file-transfer-go)                                    | 基于 WebRTC 的 P2P 文件传输                         |
-| JS 优化方案            | [romgrk.com](https://romgrk.com/posts/optimizing-javascript#0-avoid-work)                    | JavaScript 性能优化实践                            |
-| Python 爬虫教程        | [github](https://github.com/wistbean/learn_python3_spider)                                   | Python 爬虫入门到进阶                               |
-| 游戏碰撞算法             | [leanrada.com](https://leanrada.com/notes/sweep-and-prune/)                                  | Sweep and Prune 碰撞检测算法                       |
-| TensorRT 介绍        | [CSDN](https://blog.csdn.net/weixin_45277161/article/details/136566919)                      | TensorRT 使用指南                                |
-| 富文本编辑器推荐           | [SegmentFault](https://segmentfault.com/a/1190000043693122)                                  | 2023 年值得尝试的 13 款富文本编辑器                       |
-| RenderDoc          | [renderdoc.org](https://renderdoc.org/)                                                      | 图形调试工具                                       |
-| 魔搭社区               | [modelscope.cn](https://modelscope.cn/home)                                                  | 模型托管与开源社区                                    |
-| upyo               | [github](https://github.com/dahlia/upyo)                                                     | JS 邮件收发库                                     |
-| Starlight          | [astro.build](https://starlight.astro.build/getting-started/)                                | 基于 Astro 的文档网站生成工具                           |
-| cap CAPTCHA        | [github](https://github.com/tiagorangel1/cap)                                                | 基于工作量证明的网页验证码方案                              |
-| FilePilot          | [filepilot.tech](https://filepilot.tech/#top)                                                | 非官方 Windows 资源管理器替代                          |
-| PageTemplatify     | [github](https://github.com/GeekAtTeam/PageTemplatify)                                       | 静态 HTML 页面快速生成工具                             |
-| Affinity           | [affinity.studio](https://www.affinity.studio/)                                              | Photoshop 替代品，Canva 收购后免费                    |
-| Proxmox 家庭实验室      | [xda-developers.com](https://www.xda-developers.com/projects-i-host-on-my-proxmox-home-lab/) | Proxmox 在家庭实验室的 10 种用途                       |
-| LabPlot            | [labplot.org](https://labplot.org/)                                                          | 数据可视化桌面软件                                    |
-| fresh 编辑器          | [github](https://github.com/sinelaw/fresh)                                                   | 基于终端的文本编辑器                                   |
-| eyesite            | [github](https://github.com/akchro/eyesite)                                                  | 用摄像头捕捉目光代替鼠标                                 |
-| Lixian.Online      | [Lixian.Online](https://lixian.online/)                                                      | 获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具   |
-| Rename.Tools       | [Rename.Tools](https://rename.tools/zh/app)                                                  | 浏览器端的批量文件重命名工具，支持各种规则设定                      |
-| Reze Studio        | [Reze Studio](https://github.com/AmyangXYZ/reze-studio)                                      | 开源的动画曲线编辑网站。                                 |
-| WatermarkZero      | [WatermarkZero](https://watermarkzero.org/)                                                  | Gemini 生成图片的可见水印去除工具，图片不需要上传到服务器，直接在本地浏览器处理。 |
+| 名称                 | 链接                                                                                           | 说明                                                          |
+| ------------------ | -------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| 文本转语音              | [texttospeech.im](https://texttospeech.im/zh-CN)                                             | 在线文本转语音                                                     |
+| 跨平台文本转语音           | [github](https://github.com/ElmTran/praises)                                                 | 桌面端 TTS，支持多个 API，免费                                         |
+| 在线 JSON 编辑器        | [json4u.cn](https://json4u.cn/editor)                                                        | 功能完善的在线 JSON 编辑器                                            |
+| 临时邮箱               | [tempmail100.com](https://tempmail100.com/)                                                  | 临时邮箱服务                                                      |
+| iframe 生成器         | [iframegenerator.top](https://iframegenerator.top/)                                          | 一站式 iframe 生成器                                              |
+| 屏幕共享               | [screensharing.net](https://screensharing.net/)                                              | 从浏览器分享屏幕给他人                                                 |
+| MarkItDown         | [markitdown.pro](https://markitdown.pro/)                                                    | 微软出品，Office 文件转 Markdown                                    |
+| dbdiagram          | [dbdiagram.io](https://dbdiagram.io/home)                                                    | 输入 SQL 生成实体关系图                                              |
+| 文字转图片              | [github](https://github.com/byodian/oneimg)                                                  | 开源文字转图片工具                                                   |
+| 在线 SVG 编辑          | [hyvector.com](https://www.hyvector.com/)                                                    | 在线矢量图编辑工具                                                   |
+| SVG 转 3D           | [svgto3d.com](https://www.svgto3d.com/zh/app)                                                | 将平面 SVG 免费转成 3D                                             |
+| html 转 pdf         | [github](https://github.com/bkhtmltopdf/bkhtmltopdf)                                         | HTML 转 PDF 工具                                               |
+| PDF 翻译             | [deeppdf.ai](https://deeppdf.ai/pdf-translator)                                              | 保留排版的 PDF 翻译网站                                              |
+| pp2pdf             | [pp2pdf.com](https://pp2pdf.com/)                                                            | PDF 在线转换器                                                   |
+| GitHub 数据分析        | [toolsnav.top](https://github-insights-pro.toolsnav.top/)                                    | GitHub 项目与用户数据可视化                                           |
+| 服务器搭建指南            | [becomesovran.com](https://becomesovran.com/blog/server-setup-basics.html)                   | 搭建公开访问服务器的基础配置                                              |
+| localhost HTTPS 证书 | [github](https://github.com/anchordotdev/cli)                                                | 为本地开发环境提供 HTTPS 证书                                          |
+| tunnl              | [tunnl.gg](https://tunnl.gg/)                                                                | SSH 连接后自动分配子域名，主机暴露到公网                                      |
+| GraphRAG           | [microsoft.github.io](https://microsoft.github.io/graphrag/)                                 | 微软图数据库+检索增强生成技术                                             |
+| 引力布局演示             | [editor.p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip)                  | 可交互引力布局                                                     |
+| Schemio            | [github](https://github.com/ishubin/schemio)                                                 | 基于 Web 的示意图可视化编辑器                                           |
+| FossFLOW           | [github](https://github.com/stan-smith/FossFLOW)                                             | 绘制网络基础设施图的开源工具                                              |
+| Drawnix            | [github](https://github.com/plait-board/drawnix)                                             | 开源白板工具，含思维导图、流程图                                            |
+| Chili3D            | [chili3d.com](https://chili3d.com/)                                                          | 基于浏览器的 3D CAD 软件                                            |
+| code996            | [github](https://github.com/hellodigua/code996)                                              | 通过 Git 提交时间分析项目加班情况                                         |
+| p2p 远程桌面           | [github](https://github.com/miroslavpejic85/p2p)                                             | 开源 Windows 远程桌面，无需安装配置                                      |
+| file-transfer-go   | [github](https://github.com/MatrixSeven/file-transfer-go)                                    | 基于 WebRTC 的 P2P 文件传输                                        |
+| JS 优化方案            | [romgrk.com](https://romgrk.com/posts/optimizing-javascript#0-avoid-work)                    | JavaScript 性能优化实践                                           |
+| Python 爬虫教程        | [github](https://github.com/wistbean/learn_python3_spider)                                   | Python 爬虫入门到进阶                                              |
+| 游戏碰撞算法             | [leanrada.com](https://leanrada.com/notes/sweep-and-prune/)                                  | Sweep and Prune 碰撞检测算法                                      |
+| TensorRT 介绍        | [CSDN](https://blog.csdn.net/weixin_45277161/article/details/136566919)                      | TensorRT 使用指南                                               |
+| 富文本编辑器推荐           | [SegmentFault](https://segmentfault.com/a/1190000043693122)                                  | 2023 年值得尝试的 13 款富文本编辑器                                      |
+| RenderDoc          | [renderdoc.org](https://renderdoc.org/)                                                      | 图形调试工具                                                      |
+| 魔搭社区               | [modelscope.cn](https://modelscope.cn/home)                                                  | 模型托管与开源社区                                                   |
+| upyo               | [github](https://github.com/dahlia/upyo)                                                     | JS 邮件收发库                                                    |
+| Starlight          | [astro.build](https://starlight.astro.build/getting-started/)                                | 基于 Astro 的文档网站生成工具                                          |
+| cap CAPTCHA        | [github](https://github.com/tiagorangel1/cap)                                                | 基于工作量证明的网页验证码方案                                             |
+| FilePilot          | [filepilot.tech](https://filepilot.tech/#top)                                                | 非官方 Windows 资源管理器替代                                         |
+| PageTemplatify     | [github](https://github.com/GeekAtTeam/PageTemplatify)                                       | 静态 HTML 页面快速生成工具                                            |
+| Affinity           | [affinity.studio](https://www.affinity.studio/)                                              | Photoshop 替代品，Canva 收购后免费                                   |
+| Proxmox 家庭实验室      | [xda-developers.com](https://www.xda-developers.com/projects-i-host-on-my-proxmox-home-lab/) | Proxmox 在家庭实验室的 10 种用途                                      |
+| LabPlot            | [labplot.org](https://labplot.org/)                                                          | 数据可视化桌面软件                                                   |
+| fresh 编辑器          | [github](https://github.com/sinelaw/fresh)                                                   | 基于终端的文本编辑器                                                  |
+| eyesite            | [github](https://github.com/akchro/eyesite)                                                  | 用摄像头捕捉目光代替鼠标                                                |
+| Lixian.Online      | [Lixian.Online](https://lixian.online/)                                                      | 获取 VSCode 插件、Chrome 扩展和 Docker 镜像的离线安装包的工具                  |
+| Rename.Tools       | [Rename.Tools](https://rename.tools/zh/app)                                                  | 浏览器端的批量文件重命名工具，支持各种规则设定                                     |
+| Reze Studio        | [Reze Studio](https://github.com/AmyangXYZ/reze-studio)                                      | 开源的动画曲线编辑网站。                                                |
+| WatermarkZero      | [WatermarkZero](https://watermarkzero.org/)                                                  | Gemini 生成图片的可见水印去除工具，图片不需要上传到服务器，直接在本地浏览器处理。                |
+| taken              | [taken](https://sinceyouarrived.world/taken)                                                 | 这个网站可以查看，你的网页请求包含多少个人信息。                                    |
+| FFmpeg Explorer    | [FFmpeg Explorer](https://ffmpeg.lav.io/)                                                    | 通过可视化图形、生成 FFmpeg 命令的网页应用                                   |
+| Stock SDK          | [Stock SDK](https://stock-sdk.linkdiary.cn/)                                                 | 获取股票行情的开源 JavaScript SDK，纯前端抓取，无需后端服务，实时行情来自腾讯财经/东方财富等公开接口。 |
 
 ---
 
@@ -167,32 +171,36 @@
 
 ## 🤖 AI 相关
 
-| 名称                    | 链接                                                                                                  | 说明                                                                              |
-| --------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| Humanize AI           | [humanize.im](https://humanize.im/zh-CN)                                                            | 免费在线 AI 文本人性化工具                                                                 |
-| GPT4 英语词典             | [ceelog.github.io](https://ceelog.github.io/DictionaryByGPT4/index.html)                            | GPT4 生成，收录 8000+ 常用单词                                                           |
-| 在线抠图                  | [modelscope.cn](https://modelscope.cn/studios/AI-ModelScope/background-removal)                     | AI 自动抠图工具                                                                       |
-| MagicMirror           | [github](https://github.com/idootop/MagicMirror)                                                    | AI 换脸工具                                                                         |
-| 口语对话练习                | [duck.orenoid.com](https://duck.orenoid.com/)                                                       | 基于 AI 的英语口语练习应用                                                                 |
-| AI GIF 换脸             | [aigif.net](https://aigif.net/)                                                                     | GIF 动图搜索与换脸                                                                     |
-| 免费 AI OCR             | [edgeone.app](https://functions-ocr.edgeone.app/)                                                   | 在线免费图片文字识别                                                                      |
-| AI 调色盘                | [colorify.rocks](https://colorify.rocks/)                                                           | AI 辅助调色工具                                                                       |
-| Raphael AI            | [raphael.app](https://raphael.app/zh)                                                               | 基于 Flux.1-DEV 的免费 AI 图像生成                                                       |
-| 播客转文字                 | [podcast.zeabur.app](https://podcast.zeabur.app/)                                                   | 播客/音频转录与摘要，基于 Whisper                                                           |
-| AI 图像编辑               | [aiimageeditor.me](https://aiimageeditor.me/)                                                       | 图片增强、去水印、风格转换等                                                                  |
-| MCPFlow               | [mcpflow.io](https://mcpflow.io/home)                                                               | MCP 目录站                                                                         |
-| Unla                  | [github](https://github.com/AmoyLab/Unla)                                                           | Go 语言网关，将 API 转成 MCP 服务                                                         |
-| Belindoc              | [belindoc.com](https://belindoc.com/zh)                                                             | AI 文档翻译                                                                         |
-| Google 文生图            | [aistudio.google.com](https://aistudio.google.com/prompts/new_image)                                | Google AI Studio 文生图                                                            |
-| Nano Banana 提示词       | [github](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md) | 500+ Nano Banana Pro 模型提示词                                                      |
-| Banana Prompt Quicker | [glidea.github.io](https://glidea.github.io/banana-prompt-quicker/#gallery)                         | 浏览器插件，收集热门提示词                                                                   |
-| AI 去水印                | [lingxiangtools.top](https://clearcat.lingxiangtools.top/)                                          | AI 智能去除水印                                                                       |
-| MicroGPT              | [MicroGPT](https://growingswe.com/blog/microgpt)                                                    | MicroGPT 是一个200行的 Python 脚本 ，用来解释 ChatGPT 的原理。本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法 |
-| Page Agent            | [Page Agent](https://github.com/alibaba/page-agent)                                                 | 只要在网页插入这个 JS 库，就可以使用自然语言操作页面，比如"点击导航栏的文档链接，总结其内容"                               |
-| canirun.ai            | [[canirun.ai](https://www.canirun.ai/)](https://www.canirun.ai/)                                    | 网页检测你的机器，能够运行哪些本地的 AI 模型。                                                       |
-| AI Comic Builder      | [AI Comic Builder](https://github.com/twwch/AIComicBuilder)                                         | AI 驱动的漫剧生成器 — 从剧本到动画视频的全自动流水线。                                                  |
-| whats_ai              | [whats_ai](https://wmyskxz.cn/wiki/whats_ai/)                                                       | 面向普通读者的通俗 AI 原理教程                                                               |
-| Claude Code 动手教程      | [Claude Code 动手教程](https://claude.nagdy.me/learn/slash-commands/)                                   | Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。                                       |
+| 名称                          | 链接                                                                                                  | 说明                                                                                   |
+| --------------------------- | --------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| Humanize AI                 | [humanize.im](https://humanize.im/zh-CN)                                                            | 免费在线 AI 文本人性化工具                                                                      |
+| GPT4 英语词典                   | [ceelog.github.io](https://ceelog.github.io/DictionaryByGPT4/index.html)                            | GPT4 生成，收录 8000+ 常用单词                                                                |
+| 在线抠图                        | [modelscope.cn](https://modelscope.cn/studios/AI-ModelScope/background-removal)                     | AI 自动抠图工具                                                                            |
+| MagicMirror                 | [github](https://github.com/idootop/MagicMirror)                                                    | AI 换脸工具                                                                              |
+| 口语对话练习                      | [duck.orenoid.com](https://duck.orenoid.com/)                                                       | 基于 AI 的英语口语练习应用                                                                      |
+| AI GIF 换脸                   | [aigif.net](https://aigif.net/)                                                                     | GIF 动图搜索与换脸                                                                          |
+| 免费 AI OCR                   | [edgeone.app](https://functions-ocr.edgeone.app/)                                                   | 在线免费图片文字识别                                                                           |
+| AI 调色盘                      | [colorify.rocks](https://colorify.rocks/)                                                           | AI 辅助调色工具                                                                            |
+| Raphael AI                  | [raphael.app](https://raphael.app/zh)                                                               | 基于 Flux.1-DEV 的免费 AI 图像生成                                                            |
+| 播客转文字                       | [podcast.zeabur.app](https://podcast.zeabur.app/)                                                   | 播客/音频转录与摘要，基于 Whisper                                                                |
+| AI 图像编辑                     | [aiimageeditor.me](https://aiimageeditor.me/)                                                       | 图片增强、去水印、风格转换等                                                                       |
+| MCPFlow                     | [mcpflow.io](https://mcpflow.io/home)                                                               | MCP 目录站                                                                              |
+| Unla                        | [github](https://github.com/AmoyLab/Unla)                                                           | Go 语言网关，将 API 转成 MCP 服务                                                              |
+| Belindoc                    | [belindoc.com](https://belindoc.com/zh)                                                             | AI 文档翻译                                                                              |
+| Google 文生图                  | [aistudio.google.com](https://aistudio.google.com/prompts/new_image)                                | Google AI Studio 文生图                                                                 |
+| Nano Banana 提示词             | [github](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/blob/main/README_zh.md) | 500+ Nano Banana Pro 模型提示词                                                           |
+| Banana Prompt Quicker       | [glidea.github.io](https://glidea.github.io/banana-prompt-quicker/#gallery)                         | 浏览器插件，收集热门提示词                                                                        |
+| AI 去水印                      | [lingxiangtools.top](https://clearcat.lingxiangtools.top/)                                          | AI 智能去除水印                                                                            |
+| MicroGPT                    | [MicroGPT](https://growingswe.com/blog/microgpt)                                                    | MicroGPT 是一个200行的 Python 脚本 ，用来解释 ChatGPT 的原理。本文使用互动式动画分析 MicroGPT，适合初学者了解大模型算法      |
+| Page Agent                  | [Page Agent](https://github.com/alibaba/page-agent)                                                 | 只要在网页插入这个 JS 库，就可以使用自然语言操作页面，比如"点击导航栏的文档链接，总结其内容"                                    |
+| canirun.ai                  | [[canirun.ai](https://www.canirun.ai/)](https://www.canirun.ai/)                                    | 网页检测你的机器，能够运行哪些本地的 AI 模型。                                                            |
+| AI Comic Builder            | [AI Comic Builder](https://github.com/twwch/AIComicBuilder)                                         | AI 驱动的漫剧生成器 — 从剧本到动画视频的全自动流水线。                                                       |
+| whats_ai                    | [whats_ai](https://wmyskxz.cn/wiki/whats_ai/)                                                       | 面向普通读者的通俗 AI 原理教程                                                                    |
+| Claude Code 动手教程            | [Claude Code 动手教程](https://claude.nagdy.me/learn/slash-commands/)                                   | Claude Code 的互动式教程，通过11个小练习，掌握这个 AI 编程工具。                                            |
+| AI-agent-first CLI for BOSS | [AI-agent-first CLI for BOSS](https://github.com/can4hou6joeng4/boss-agent-cli)                     | BOSS 直聘 — 职位搜索、福利筛选、招聘者工作流、MCP 工具与 AI 简历优化                                           |
+| MonkeyCode                  | [MonkeyCode](https://github.com/chaitin/MonkeyCode)                                                 | AI 开发平台，内置云端开发环境，并支持业内最全的顶尖大模型。无论是开发项目、做调研、写文档，还是分析数据、处理任务，打开浏览器就能随时开始，让 AI 持续帮你推进工作 |
+| Remove-AI-Watermarks        | [Remove-AI-Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)                          | 移除 AI 图片水印的命令行工具，也是一个 Python 软件包，可见水印和不可见水印（比如谷歌的 SynthID）都能移除。                      |
+| Lucarne                     | [Lucarne](https://github.com/tuchg/Lucarne)                                                         | 把本地运行的 AI Agent 接到微信 / Telegram，让你离开电脑也能收到进展、审批权限、回复问题、接续会话。                         |
 
 ---
 
@@ -219,10 +227,11 @@
 
 ### 🎵 音效 & 白噪音
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| SoundBox | [soundbox.fun](https://soundbox.fun/) | 自然环境音效与白噪音 |
-| TikTok 音效生成 | [tiktokvoice.net](https://tiktokvoice.net/en/sounds-effect) | 免费生成雨声、风声等音效 |
+| 名称            | 链接                                                          | 说明                 |
+| ------------- | ----------------------------------------------------------- | ------------------ |
+| SoundBox      | [soundbox.fun](https://soundbox.fun/)                       | 自然环境音效与白噪音         |
+| TikTok 音效生成   | [tiktokvoice.net](https://tiktokvoice.net/en/sounds-effect) | 免费生成雨声、风声等音效       |
+| DataCenter.fm | [DataCenter.fm](https://datacenter.fm/)                     | 一个背景音生成器，模拟机房运行的声音 |
 
 ### 🌍 数据 & 地图
 
