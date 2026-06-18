@@ -27,13 +27,13 @@
 
 ## 📐 数学 / 算法
 
-| 名称 | 链接 | 说明 |
-|------|------|------|
-| 线性代数是什么 | [知乎](https://www.zhihu.com/question/489470968/answer/3117627141) | 线性代数入门解读 |
-| Immersive Math | [immersivemath.com](https://immersivemath.com/ila/index.html) | 沉浸式线性代数学习（英文） |
-| 引力布局算法 | [cs.brown.edu](https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/force-directed.pdf) | Force-Directed 引力布局算法论文 |
-| 简易版引力布局 | [p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip) | 可交互的引力布局 Demo |
-| 数据结构与算法 | [hello-algo.com](https://www.hello-algo.com/chapter_hello_algo/) | 动画图解、一键运行的数据结构与算法教程 |
+| 名称             | 链接                                                                                          | 说明                      |
+| -------------- | ------------------------------------------------------------------------------------------- | ----------------------- |
+| 线性代数是什么        | [知乎](https://www.zhihu.com/question/489470968/answer/3117627141)                            | 线性代数入门解读                |
+| Immersive Math | [immersivemath.com](https://immersivemath.com/ila/index.html)                               | 沉浸式线性代数学习（英文）           |
+| 引力布局算法         | [cs.brown.edu](https://cs.brown.edu/people/rtamassi/gdhandbook/chapters/force-directed.pdf) | Force-Directed 引力布局算法论文 |
+| 简易版引力布局        | [p5js.org](https://editor.p5js.org/JeromePaddick/sketches/bjA_UOPip)                        | 可交互的引力布局 Demo           |
+| 数据结构与算法        | [hello-algo.com](https://www.hello-algo.com/chapter_hello_algo/)                            | 动画图解、一键运行的数据结构与算法教程     |
 
 ---
 
@@ -78,27 +78,33 @@
 | canvas-compress       | [canvas-compress](https://jstrieb.github.io/posts/canvas-compress/) | 本文介绍如何在前端，通过 canvas（画布）将数据压缩成一张图片。                                      |
 | Valdi                 | [Valdi](https://github.com/Snapchat/Valdi)                          | SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。 |
 | animal-island-ui      | [animal-island-ui](https://github.com/guokaigdg/animal-island-ui)   | 《动物森友会》风格的 React UI 组件库                                                 |
+| Penpot                | [Penpot](https://github.com/penpot/penpot)                          | 一个开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。                         |
+|                       |                                                                     |                                                                         |
+|                       |                                                                     |                                                                         |
 
 ### 📚 学习资源
 
-| 名称                         | 链接                                                                                                               | 说明                                    |
-| -------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------- |
-| 软件工程面试指南                   | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)                                       | 软件工程技术面试个人指南                          |
-| Modern C++ Programming     | [github](https://github.com/federico-busato/Modern-CPP-Programming)                                              | 现代 C++ 编程教程                           |
-| Rust 快速入门                  | [github](https://github.com/InkSha/rust-tutorial)                                                                | Rust 语言快速入门教程                         |
-| free-programming-books     | [github](https://github.com/EbookFoundation/free-programming-books)                                              | 编程手册大全                                |
-| 编程学习资源（中文）                 | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表                            |
-| Hello 算法                   | [hello-algo.com](https://www.hello-algo.com/)                                                                    | 动画图解算法教程                              |
-| SQL 教程                     | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/)                                                   | 初学者 SQL 教程                            |
-| LangShift                  | [langshift.dev](https://langshift.dev/#learning-path)                                                            | 通过比较不同语言学习新编程语言                       |
-| TypeScript 题库              | [typeroom.cn](https://typeroom.cn/problems/all)                                                                  | Type Challenge 网页版                    |
-| adacpp                     | [adacpp.com](https://www.adacpp.com/zh/landing)                                                                  | 在线 C++ 学习环境，含 AI 代码解释                 |
-| Algorithms with TypeScript | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。 |
-| TypeScript 简洁之书            | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                   |
-| 机器学习入门教程                   | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                    |
-| 软件工程定律                     | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                       |
-| 现代 C++ 编程                  | [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)                                           | 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。 |
-| MathNet                    | [MathNet]([MathNet](https://mathnet.mit.edu/))                                                                   | 麻省理工学院维护的一个网站，收集了3万多道数学题。             |
+| 名称                                | 链接                                                                                                               | 说明                                          |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
+| 软件工程面试指南                          | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)                                       | 软件工程技术面试个人指南                                |
+| Modern C++ Programming            | [github](https://github.com/federico-busato/Modern-CPP-Programming)                                              | 现代 C++ 编程教程                                 |
+| Rust 快速入门                         | [github](https://github.com/InkSha/rust-tutorial)                                                                | Rust 语言快速入门教程                               |
+| free-programming-books            | [github](https://github.com/EbookFoundation/free-programming-books)                                              | 编程手册大全                                      |
+| 编程学习资源（中文）                        | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表                                  |
+| Hello 算法                          | [hello-algo.com](https://www.hello-algo.com/)                                                                    | 动画图解算法教程                                    |
+| SQL 教程                            | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/)                                                   | 初学者 SQL 教程                                  |
+| LangShift                         | [langshift.dev](https://langshift.dev/#learning-path)                                                            | 通过比较不同语言学习新编程语言                             |
+| TypeScript 题库                     | [typeroom.cn](https://typeroom.cn/problems/all)                                                                  | Type Challenge 网页版                          |
+| adacpp                            | [adacpp.com](https://www.adacpp.com/zh/landing)                                                                  | 在线 C++ 学习环境，含 AI 代码解释                       |
+| Algorithms with TypeScript        | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。       |
+| TypeScript 简洁之书                   | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                         |
+| 机器学习入门教程                          | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                          |
+| 软件工程定律                            | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                             |
+| 现代 C++ 编程                         | [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)                                           | 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。       |
+| MathNet                           | [MathNet]([MathNet](https://mathnet.mit.edu/))                                                                   | 麻省理工学院维护的一个网站，收集了3万多道数学题。                   |
+| 微积分其实很容易                          | [微积分其实很容易](https://github.com/KeyAI/calculusmadeeasy-zh)                                                         | 著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书 |
+| 高考真题大全                            | [高考真题大全](https://t.urongda.com/)                                                                                 | 这个网站收集各省历年的高考试卷                             |
+| 生产验证的编程模式（Battle-Tested Patterns） | [Battle-Tested Patterns](https://totoro-jam.github.io/battle-tested-patterns/zh/guide/learning-paths.html)       | 一个资料网站，介绍46种常用的编程模式，配有真实项目的代码实例。            |
 
 ### 🧰 实用在线工具
 
@@ -155,6 +161,8 @@
 | taken              | [taken](https://sinceyouarrived.world/taken)                                                 | 这个网站可以查看，你的网页请求包含多少个人信息。                                    |
 | FFmpeg Explorer    | [FFmpeg Explorer](https://ffmpeg.lav.io/)                                                    | 通过可视化图形、生成 FFmpeg 命令的网页应用                                   |
 | Stock SDK          | [Stock SDK](https://stock-sdk.linkdiary.cn/)                                                 | 获取股票行情的开源 JavaScript SDK，纯前端抓取，无需后端服务，实时行情来自腾讯财经/东方财富等公开接口。 |
+| CanvasCast         | [CanvasCast](https://github.com/nine19een/CanvasCast)                                        | 白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容                            |
+| ffmpeg webCLI      | [ffmpeg webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)                               | 一个基于网页的视频编辑器，全部离线操作，底层是 ffmpeg.wasm。                        |
 
 ---
 
