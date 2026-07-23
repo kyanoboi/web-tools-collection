@@ -82,6 +82,8 @@
 | Lore                  | [Lore](https://github.com/EpicGames/lore)                           | 游戏公司 EpicGames 开源的一个版本管理系统。跟 Git 相比，它的最大特点是为二进制文件提供版本管理。<br><br>它将大型的二进制文件拆分成一个个数据块，进行储存。每次提交，只保存有变动的数据块。 |
 | MyKVM                 | [MyKVM](https://github.com/XxMinor/mykvm)                           | 源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。                                                   |
 | Deno Desktop          | [Deno Desktop](https://deno.com/blog/v2.9#deno-desktop)             | Deno 宣布推出 Deno Desktop，可以直接将 Deno 网页应用，打包成桌面的二进制程序，UI 在 Webview 中运行，后端是一个 Deno 运行时                        |
+| OnlyOffice Web Comp   | [OnlyOffice Web Comp](https://onlyoffice-web-comp.vercel.app/)      | 基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。                              |
+| Ant                   | [Ant](https://antjs.org/)                                           | 一种轻量级的 JS/TS 语言运行时，二进制文件只有 8MB。                                                                           |
 
 ### 📚 学习资源
 
@@ -164,6 +166,7 @@
 | Stock SDK          | [Stock SDK](https://stock-sdk.linkdiary.cn/)                                                 | 获取股票行情的开源 JavaScript SDK，纯前端抓取，无需后端服务，实时行情来自腾讯财经/东方财富等公开接口。 |
 | CanvasCast         | [CanvasCast](https://github.com/nine19een/CanvasCast)                                        | 白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容                            |
 | ffmpeg webCLI      | [ffmpeg webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)                               | 一个基于网页的视频编辑器，全部离线操作，底层是 ffmpeg.wasm。                        |
+| 终端控制字符一览表          | [终端控制字符一览表](https://jvns.ca/ascii)                                                           | 命令行可以使用的控制符快捷键（比如快捷键 Ctrl-C 是终止当前命令），一共33个。                 |
 
 ---
 
@@ -211,6 +214,7 @@
 | Remove-AI-Watermarks        | [Remove-AI-Watermarks](https://github.com/wiltodelta/remove-ai-watermarks)                          | 移除 AI 图片水印的命令行工具，也是一个 Python 软件包，可见水印和不可见水印（比如谷歌的 SynthID）都能移除。                      |
 | Lucarne                     | [Lucarne](https://github.com/tuchg/Lucarne)                                                         | 把本地运行的 AI Agent 接到微信 / Telegram，让你离开电脑也能收到进展、审批权限、回复问题、接续会话。                         |
 | ClaudeFlag                  | [ClaudeFlag](https://claudeflag.com/)                                                               | 检测 Claude Code 是否会将你识别为中国用户                                                          |
+| GPT Crawler                 | [GPT Crawler](https://github.com/BuilderIO/gpt-crawler)                                             | 这个工具将指定网站的内容，抓取成一个 JSON 文件，然后上传到 ChatGPT，从而生成该网站的聊天机器人，允许你跟该网站聊天。                    |
 
 ---
 
@@ -257,24 +261,25 @@
 
 ### 😄 趣味 & 娱乐
 
-| 名称          | 链接                                                                  | 说明                                     |
-| ----------- | ------------------------------------------------------------------- | -------------------------------------- |
-| 儿童睡前故事      | [beddystories.com](https://beddystories.com/zh)                     | 全球经典儿童睡前故事                             |
-| AI 佛经       | [rushiwowen.co](https://rushiwowen.co/)                             | AI 生成佛经                                |
-| Cat TV      | [cat-tv.net](https://cat-tv.net/)                                   | 在画布上添加动态生物给猫咪看                         |
-| PetPet GIF  | [petpetgif.com](https://www.petpetgif.com/)                         | 宠物摸头 GIF 生成器                           |
-| PlayPhrase  | [playphrase.me](https://www.playphrase.me/)                         | 搜索电影台词片段                               |
-| BongoCat    | [github](https://github.com/ayangweb/BongoCat)                      | 开源桌面宠物，支持多平台                           |
-| Cam Run     | [github](https://github.com/Jamesun921/cam-run)                     | 对着摄像头的开源跑步游戏                           |
-| 吉卜力高清图      | [ghibli.jp](https://www.ghibli.jp/works/)                           | 吉卜力官方放出的几百张高清电影图                       |
-| 复古诺基亚       | [chaz.fun](https://chaz.fun/)                                       | 经典诺基亚手机 3D 建模，可开机操作                    |
-| 经典游戏模拟器     | [emulatorgamer.com](https://emulatorgamer.com/games)                | 老游戏机经典游戏在线游玩                           |
-| ASCII 月相    | [asciimoon.com](https://asciimoon.com/)                             | 用 ASCII 展示当天月相                         |
-| 生命的大小       | [neal.fun](https://neal.fun/size-of-life/)                          | 交互式探索生命大小对比                            |
-| 赛博朋克元素周期表   | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table) | 赛博朋克风格元素周期表                            |
-| guide.world | [guide.world](https://guide.world/)                                 | 这个网站收集世界各地的优秀游记散文                      |
-| screen.toys | [screen.toys](https://screen.toys/)                                 | 网页小游戏                                  |
-| 遨游太阳系       | [遨游太阳系](https://sw.icodestar.net/)                                  | 一个基于真实 NASA JPL 星历的浏览器端 1:1 实时太阳系探索应用。 |
+| 名称                  | 链接                                                                      | 说明                                     |
+| ------------------- | ----------------------------------------------------------------------- | -------------------------------------- |
+| 儿童睡前故事              | [beddystories.com](https://beddystories.com/zh)                         | 全球经典儿童睡前故事                             |
+| AI 佛经               | [rushiwowen.co](https://rushiwowen.co/)                                 | AI 生成佛经                                |
+| Cat TV              | [cat-tv.net](https://cat-tv.net/)                                       | 在画布上添加动态生物给猫咪看                         |
+| PetPet GIF          | [petpetgif.com](https://www.petpetgif.com/)                             | 宠物摸头 GIF 生成器                           |
+| PlayPhrase          | [playphrase.me](https://www.playphrase.me/)                             | 搜索电影台词片段                               |
+| BongoCat            | [github](https://github.com/ayangweb/BongoCat)                          | 开源桌面宠物，支持多平台                           |
+| Cam Run             | [github](https://github.com/Jamesun921/cam-run)                         | 对着摄像头的开源跑步游戏                           |
+| 吉卜力高清图              | [ghibli.jp](https://www.ghibli.jp/works/)                               | 吉卜力官方放出的几百张高清电影图                       |
+| 复古诺基亚               | [chaz.fun](https://chaz.fun/)                                           | 经典诺基亚手机 3D 建模，可开机操作                    |
+| 经典游戏模拟器             | [emulatorgamer.com](https://emulatorgamer.com/games)                    | 老游戏机经典游戏在线游玩                           |
+| ASCII 月相            | [asciimoon.com](https://asciimoon.com/)                                 | 用 ASCII 展示当天月相                         |
+| 生命的大小               | [neal.fun](https://neal.fun/size-of-life/)                              | 交互式探索生命大小对比                            |
+| 赛博朋克元素周期表           | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table)     | 赛博朋克风格元素周期表                            |
+| guide.world         | [guide.world](https://guide.world/)                                     | 这个网站收集世界各地的优秀游记散文                      |
+| screen.toys         | [screen.toys](https://screen.toys/)                                     | 网页小游戏                                  |
+| 遨游太阳系               | [遨游太阳系](https://sw.icodestar.net/)                                      | 一个基于真实 NASA JPL 星历的浏览器端 1:1 实时太阳系探索应用。 |
+| Awesome Zhuiju Free | [Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free) | 这个仓库收集免费的追剧资源。                         |
 
 ### 🔧 工具 & 实用
 
