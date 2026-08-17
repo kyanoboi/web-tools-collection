@@ -87,27 +87,28 @@
 
 ### 📚 学习资源
 
-| 名称                                | 链接                                                                                                               | 说明                                          |
-| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------- |
-| 软件工程面试指南                          | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)                                       | 软件工程技术面试个人指南                                |
-| Modern C++ Programming            | [github](https://github.com/federico-busato/Modern-CPP-Programming)                                              | 现代 C++ 编程教程                                 |
-| Rust 快速入门                         | [github](https://github.com/InkSha/rust-tutorial)                                                                | Rust 语言快速入门教程                               |
-| free-programming-books            | [github](https://github.com/EbookFoundation/free-programming-books)                                              | 编程手册大全                                      |
-| 编程学习资源（中文）                        | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表                                  |
-| Hello 算法                          | [hello-algo.com](https://www.hello-algo.com/)                                                                    | 动画图解算法教程                                    |
-| SQL 教程                            | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/)                                                   | 初学者 SQL 教程                                  |
-| LangShift                         | [langshift.dev](https://langshift.dev/#learning-path)                                                            | 通过比较不同语言学习新编程语言                             |
-| TypeScript 题库                     | [typeroom.cn](https://typeroom.cn/problems/all)                                                                  | Type Challenge 网页版                          |
-| adacpp                            | [adacpp.com](https://www.adacpp.com/zh/landing)                                                                  | 在线 C++ 学习环境，含 AI 代码解释                       |
-| Algorithms with TypeScript        | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。       |
-| TypeScript 简洁之书                   | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                         |
-| 机器学习入门教程                          | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                          |
-| 软件工程定律                            | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                             |
-| 现代 C++ 编程                         | [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)                                           | 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。       |
-| MathNet                           | [MathNet]([MathNet](https://mathnet.mit.edu/))                                                                   | 麻省理工学院维护的一个网站，收集了3万多道数学题。                   |
-| 微积分其实很容易                          | [微积分其实很容易](https://github.com/KeyAI/calculusmadeeasy-zh)                                                         | 著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书 |
-| 高考真题大全                            | [高考真题大全](https://t.urongda.com/)                                                                                 | 这个网站收集各省历年的高考试卷                             |
-| 生产验证的编程模式（Battle-Tested Patterns） | [Battle-Tested Patterns](https://totoro-jam.github.io/battle-tested-patterns/zh/guide/learning-paths.html)       | 一个资料网站，介绍46种常用的编程模式，配有真实项目的代码实例。            |
+| 名称                                | 链接                                                                                                               | 说明                                                                              |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 软件工程面试指南                          | [github](https://github.com/kdn251/interviews/blob/master/README-zh-cn.md)                                       | 软件工程技术面试个人指南                                                                    |
+| Modern C++ Programming            | [github](https://github.com/federico-busato/Modern-CPP-Programming)                                              | 现代 C++ 编程教程                                                                     |
+| Rust 快速入门                         | [github](https://github.com/InkSha/rust-tutorial)                                                                | Rust 语言快速入门教程                                                                   |
+| free-programming-books            | [github](https://github.com/EbookFoundation/free-programming-books)                                              | 编程手册大全                                                                          |
+| 编程学习资源（中文）                        | [github](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-zh.md) | 中文编程学习资源列表                                                                      |
+| Hello 算法                          | [hello-algo.com](https://www.hello-algo.com/)                                                                    | 动画图解算法教程                                                                        |
+| SQL 教程                            | [gvwilson.github.io](https://gvwilson.github.io/sql-tutorial/)                                                   | 初学者 SQL 教程                                                                      |
+| LangShift                         | [langshift.dev](https://langshift.dev/#learning-path)                                                            | 通过比较不同语言学习新编程语言                                                                 |
+| TypeScript 题库                     | [typeroom.cn](https://typeroom.cn/problems/all)                                                                  | Type Challenge 网页版                                                              |
+| adacpp                            | [adacpp.com](https://www.adacpp.com/zh/landing)                                                                  | 在线 C++ 学习环境，含 AI 代码解释                                                           |
+| Algorithms with TypeScript        | [Algorithms with TypeScript](https://amoilanen.github.io/Algorithms-with-Typescript/preface.html)                | 免费阅读的英文电子书，使用 TypeScript 语言介绍数据结构和算法。                                           |
+| TypeScript 简洁之书                   | [TypeScript 简洁之书](https://gibbok.github.io/typescript-book/zh-cn/book/the-concise-typescript-book/)              | 一本开源的 TypeScript 教程                                                             |
+| 机器学习入门教程                          | [机器学习入门教程](https://github.com/dreddnafious/thereisnospoon/blob/main/ml-primer.md)                                | 工程师的机器学习教程，解释基本概念。                                                              |
+| 软件工程定律                            | [软件工程定律](https://lawsofsoftwareengineering.com/)                                                                 | 这个网站收集各种软件相关的定律                                                                 |
+| 现代 C++ 编程                         | [现代 C++ 编程](https://github.com/federico-busato/Modern-CPP-Programming)                                           | 开源英文教程，通过详细的 PPT，帮助学过 C 语言的程序员掌握 C++。                                           |
+| MathNet                           | [MathNet]([MathNet](https://mathnet.mit.edu/))                                                                   | 麻省理工学院维护的一个网站，收集了3万多道数学题。                                                       |
+| 微积分其实很容易                          | [微积分其实很容易](https://github.com/KeyAI/calculusmadeeasy-zh)                                                         | 著名教材《Calculus Made Easy》非官方中文版，一本易读的微积分入门小书                                     |
+| 高考真题大全                            | [高考真题大全](https://t.urongda.com/)                                                                                 | 这个网站收集各省历年的高考试卷                                                                 |
+| 生产验证的编程模式（Battle-Tested Patterns） | [Battle-Tested Patterns](https://totoro-jam.github.io/battle-tested-patterns/zh/guide/learning-paths.html)       | 一个资料网站，介绍46种常用的编程模式，配有真实项目的代码实例。                                                |
+| 从零开始构建 Redis                      | [从零开始构建 Redis](https://shipthatcode.com/courses/build-redis)                                                     | 一个动手课程，从零开始构建一个功能齐全的 Redis 克隆，从中了解这个世界最流行数据库之一的内部工作原理。<br><br>这个网站上面还有许多其他动手课程。 |
 
 ### 🧰 实用在线工具
 
@@ -215,6 +216,7 @@
 | Lucarne                     | [Lucarne](https://github.com/tuchg/Lucarne)                                                         | 把本地运行的 AI Agent 接到微信 / Telegram，让你离开电脑也能收到进展、审批权限、回复问题、接续会话。                         |
 | ClaudeFlag                  | [ClaudeFlag](https://claudeflag.com/)                                                               | 检测 Claude Code 是否会将你识别为中国用户                                                          |
 | GPT Crawler                 | [GPT Crawler](https://github.com/BuilderIO/gpt-crawler)                                             | 这个工具将指定网站的内容，抓取成一个 JSON 文件，然后上传到 ChatGPT，从而生成该网站的聊天机器人，允许你跟该网站聊天。                    |
+| Docker 沙箱                   | [Docker 沙箱](https://www.docker.com/products/docker-sandboxes/)                                      | Docker 官方推出的沙箱工具，把 Docker 容器当作沙箱，让 AI Agent 在里面运行，跟底层系统隔离。                           |
 
 ---
 
@@ -261,25 +263,28 @@
 
 ### 😄 趣味 & 娱乐
 
-| 名称                  | 链接                                                                      | 说明                                     |
-| ------------------- | ----------------------------------------------------------------------- | -------------------------------------- |
-| 儿童睡前故事              | [beddystories.com](https://beddystories.com/zh)                         | 全球经典儿童睡前故事                             |
-| AI 佛经               | [rushiwowen.co](https://rushiwowen.co/)                                 | AI 生成佛经                                |
-| Cat TV              | [cat-tv.net](https://cat-tv.net/)                                       | 在画布上添加动态生物给猫咪看                         |
-| PetPet GIF          | [petpetgif.com](https://www.petpetgif.com/)                             | 宠物摸头 GIF 生成器                           |
-| PlayPhrase          | [playphrase.me](https://www.playphrase.me/)                             | 搜索电影台词片段                               |
-| BongoCat            | [github](https://github.com/ayangweb/BongoCat)                          | 开源桌面宠物，支持多平台                           |
-| Cam Run             | [github](https://github.com/Jamesun921/cam-run)                         | 对着摄像头的开源跑步游戏                           |
-| 吉卜力高清图              | [ghibli.jp](https://www.ghibli.jp/works/)                               | 吉卜力官方放出的几百张高清电影图                       |
-| 复古诺基亚               | [chaz.fun](https://chaz.fun/)                                           | 经典诺基亚手机 3D 建模，可开机操作                    |
-| 经典游戏模拟器             | [emulatorgamer.com](https://emulatorgamer.com/games)                    | 老游戏机经典游戏在线游玩                           |
-| ASCII 月相            | [asciimoon.com](https://asciimoon.com/)                                 | 用 ASCII 展示当天月相                         |
-| 生命的大小               | [neal.fun](https://neal.fun/size-of-life/)                              | 交互式探索生命大小对比                            |
-| 赛博朋克元素周期表           | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table)     | 赛博朋克风格元素周期表                            |
-| guide.world         | [guide.world](https://guide.world/)                                     | 这个网站收集世界各地的优秀游记散文                      |
-| screen.toys         | [screen.toys](https://screen.toys/)                                     | 网页小游戏                                  |
-| 遨游太阳系               | [遨游太阳系](https://sw.icodestar.net/)                                      | 一个基于真实 NASA JPL 星历的浏览器端 1:1 实时太阳系探索应用。 |
-| Awesome Zhuiju Free | [Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free) | 这个仓库收集免费的追剧资源。                         |
+| 名称                  | 链接                                                                      | 说明                                              |
+| ------------------- | ----------------------------------------------------------------------- | ----------------------------------------------- |
+| 儿童睡前故事              | [beddystories.com](https://beddystories.com/zh)                         | 全球经典儿童睡前故事                                      |
+| AI 佛经               | [rushiwowen.co](https://rushiwowen.co/)                                 | AI 生成佛经                                         |
+| Cat TV              | [cat-tv.net](https://cat-tv.net/)                                       | 在画布上添加动态生物给猫咪看                                  |
+| PetPet GIF          | [petpetgif.com](https://www.petpetgif.com/)                             | 宠物摸头 GIF 生成器                                    |
+| PlayPhrase          | [playphrase.me](https://www.playphrase.me/)                             | 搜索电影台词片段                                        |
+| BongoCat            | [github](https://github.com/ayangweb/BongoCat)                          | 开源桌面宠物，支持多平台                                    |
+| Cam Run             | [github](https://github.com/Jamesun921/cam-run)                         | 对着摄像头的开源跑步游戏                                    |
+| 吉卜力高清图              | [ghibli.jp](https://www.ghibli.jp/works/)                               | 吉卜力官方放出的几百张高清电影图                                |
+| 复古诺基亚               | [chaz.fun](https://chaz.fun/)                                           | 经典诺基亚手机 3D 建模，可开机操作                             |
+| 经典游戏模拟器             | [emulatorgamer.com](https://emulatorgamer.com/games)                    | 老游戏机经典游戏在线游玩                                    |
+| ASCII 月相            | [asciimoon.com](https://asciimoon.com/)                                 | 用 ASCII 展示当天月相                                  |
+| 生命的大小               | [neal.fun](https://neal.fun/size-of-life/)                              | 交互式探索生命大小对比                                     |
+| 赛博朋克元素周期表           | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table)     | 赛博朋克风格元素周期表                                     |
+| guide.world         | [guide.world](https://guide.world/)                                     | 这个网站收集世界各地的优秀游记散文                               |
+| screen.toys         | [screen.toys](https://screen.toys/)                                     | 网页小游戏                                           |
+| 遨游太阳系               | [遨游太阳系](https://sw.icodestar.net/)                                      | 一个基于真实 NASA JPL 星历的浏览器端 1:1 实时太阳系探索应用。          |
+| Awesome Zhuiju Free | [Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free) | 这个仓库收集免费的追剧资源。                                  |
+| How to Draw         | [How to Draw](https://www.howtodraw.ai/)                                | 这个网站有各种小动物的分步绘图指导，适合小朋友使用。                      |
+| 学习下围棋               | [学习下围棋](https://online-go.com/learn-to-play-go)                         | 在线互动围棋教程，从零开始分课讲解。                              |
+| 昆虫世界                | [昆虫世界](https://github.com/xr843/insect-world)                           | 60 种昆虫的 3D 图鉴，可以旋转、缩放、点击标注点，介绍昆虫的身体构造、生活史与生态角色。 |
 
 ### 🔧 工具 & 实用
 
@@ -299,6 +304,7 @@
 | Recordly            | [Recordly](https://github.com/webadderallorg/Recordly)                                  | 开源的录屏与编辑工具，适用于制作演示、产品展示、教程、讲解视频等，可以录制整个屏幕或单个窗口，并直接进入编辑器。                     |
 | Douzy               | [Douzy](https://github.com/jiji262/douyin-downloader)                                   | 开源桌面应用，批量下载抖音视频，支持 Windows 和 Mac。                                            |
 | WhisperSubTranslate | [WhisperSubTranslate](https://github.com/Blue-B/WhisperSubTranslate)                    | 开源的 Windows 桌面应用，根据视频的语音生成 SRT 字幕，并把字幕翻译成其他语言。它可以使用本地 Hy-MT2 模型，不需要 API key。 |
+| GNU TeXmacs         | [GNU TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)                       | 一个跨平台的桌面编辑器，主要用于编写科技文档，提供数学内容的"所见即所得"。                                       |
 
 ---
 
