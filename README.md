@@ -55,36 +55,39 @@
 
 ### 🛠️ 开发工具 & 库
 
-| 名称                    | 链接                                                                  | 说明                                                                                                        |
-| --------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
-| Magic UI              | [magicui.design](https://magicui.design/)                           | 带动画效果的 React 组件库                                                                                          |
-| CopilotKit            | [github](https://github.com/CopilotKit/CopilotKit)                  | AI Copilot / 聊天机器人的 React UI 基础设施                                                                         |
-| gpt-frontend-code-gen | [github](https://github.com/bravekingzhang/gpt-frontend-code-gen)   | 前端页面/组件 AI 生成工具                                                                                           |
-| Virtual DOM（200行）     | [lazamar.github.io](https://lazamar.github.io/virtual-dom/)         | 200 行代码实现虚拟 DOM                                                                                           |
-| CrossPaste            | [github](https://github.com/CrossPaste/crosspaste-desktop)          | 跨设备通用剪贴板                                                                                                  |
-| ttyd                  | [github](https://github.com/tsl0922/ttyd)                           | 在浏览器中打开本机终端                                                                                               |
-| code-server           | [github](https://github.com/coder/code-server)                      | 浏览器版 VS Code                                                                                              |
-| PageSpy               | [github](https://github.com/HuolalaTech/page-spy-web/)              | 调试 Web/小程序/鸿蒙 APP 的工具                                                                                     |
-| Lynx JS               | [lynxjs.org](https://lynxjs.org/zh/)                                | 字节开源跨平台原生应用开发框架                                                                                           |
-| ntfy                  | [github](https://github.com/binwiederhier/ntfy)                     | 消息推送工具，支持手机和桌面                                                                                            |
-| PairDrop              | [pairdrop.net](https://pairdrop.net/)                               | 局域网传输文件的 Web 应用                                                                                           |
-| Oomol Studio          | [oomol.com](https://oomol.com/zh-CN/)                               | 可视化连接代码片段与 API 服务                                                                                         |
-| Seelen UI             | [github](https://github.com/eythaann/Seelen-UI)                     | Windows 桌面 Mac 化 + 平铺窗口管理                                                                                 |
-| Jwno                  | [github](https://agent-kilo.github.io/jwno/)                        | 开源 Windows 10/11 平铺窗口管理器                                                                                  |
-| Apple Container       | [github](https://github.com/apple/container)                        | Mac 无需 Docker 直接运行 Linux 容器                                                                               |
-| OpenSpeedy            | [github](https://github.com/game1024/OpenSpeedy)                    | 开源游戏变速工具                                                                                                  |
-| JSLinux               | [JSLinux](https://bellard.org/jslinux/)                             | Fabrice Bellard's JSLinux                                                                                 |
-| Mole                  | [Mole](https://github.com/tw93/Mole)                                | 开源的 Mac 电脑清理和优化工具                                                                                         |
-| canvas-compress       | [canvas-compress](https://jstrieb.github.io/posts/canvas-compress/) | 本文介绍如何在前端，通过 canvas（画布）将数据压缩成一张图片。                                                                        |
-| Valdi                 | [Valdi](https://github.com/Snapchat/Valdi)                          | SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。                                   |
-| animal-island-ui      | [animal-island-ui](https://github.com/guokaigdg/animal-island-ui)   | 《动物森友会》风格的 React UI 组件库                                                                                   |
-| Penpot                | [Penpot](https://github.com/penpot/penpot)                          | 一个开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。                                                           |
-| Lore                  | [Lore](https://github.com/EpicGames/lore)                           | 游戏公司 EpicGames 开源的一个版本管理系统。跟 Git 相比，它的最大特点是为二进制文件提供版本管理。<br><br>它将大型的二进制文件拆分成一个个数据块，进行储存。每次提交，只保存有变动的数据块。 |
-| MyKVM                 | [MyKVM](https://github.com/XxMinor/mykvm)                           | 源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。                                                   |
-| Deno Desktop          | [Deno Desktop](https://deno.com/blog/v2.9#deno-desktop)             | Deno 宣布推出 Deno Desktop，可以直接将 Deno 网页应用，打包成桌面的二进制程序，UI 在 Webview 中运行，后端是一个 Deno 运行时                        |
-| OnlyOffice Web Comp   | [OnlyOffice Web Comp](https://onlyoffice-web-comp.vercel.app/)      | 基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。                              |
-| Ant                   | [Ant](https://antjs.org/)                                           | 一种轻量级的 JS/TS 语言运行时，二进制文件只有 8MB。                                                                           |
-| Polycompiler          | [Polycompiler](https://github.com/EvanZhouDev/polycompiler)         | 一个有意思的项目，可以把 JS 脚本和 Python 脚本打包成一个脚本，同时能在 JS 环境和 Python 环境运行。                                             |
+| 名称                                              | 链接                                                                  | 说明                                                                                                        |
+| ----------------------------------------------- | ------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- |
+| Magic UI                                        | [magicui.design](https://magicui.design/)                           | 带动画效果的 React 组件库                                                                                          |
+| CopilotKit                                      | [github](https://github.com/CopilotKit/CopilotKit)                  | AI Copilot / 聊天机器人的 React UI 基础设施                                                                         |
+| gpt-frontend-code-gen                           | [github](https://github.com/bravekingzhang/gpt-frontend-code-gen)   | 前端页面/组件 AI 生成工具                                                                                           |
+| Virtual DOM（200行）                               | [lazamar.github.io](https://lazamar.github.io/virtual-dom/)         | 200 行代码实现虚拟 DOM                                                                                           |
+| CrossPaste                                      | [github](https://github.com/CrossPaste/crosspaste-desktop)          | 跨设备通用剪贴板                                                                                                  |
+| ttyd                                            | [github](https://github.com/tsl0922/ttyd)                           | 在浏览器中打开本机终端                                                                                               |
+| code-server                                     | [github](https://github.com/coder/code-server)                      | 浏览器版 VS Code                                                                                              |
+| PageSpy                                         | [github](https://github.com/HuolalaTech/page-spy-web/)              | 调试 Web/小程序/鸿蒙 APP 的工具                                                                                     |
+| Lynx JS                                         | [lynxjs.org](https://lynxjs.org/zh/)                                | 字节开源跨平台原生应用开发框架                                                                                           |
+| ntfy                                            | [github](https://github.com/binwiederhier/ntfy)                     | 消息推送工具，支持手机和桌面                                                                                            |
+| PairDrop                                        | [pairdrop.net](https://pairdrop.net/)                               | 局域网传输文件的 Web 应用                                                                                           |
+| Oomol Studio                                    | [oomol.com](https://oomol.com/zh-CN/)                               | 可视化连接代码片段与 API 服务                                                                                         |
+| Seelen UI                                       | [github](https://github.com/eythaann/Seelen-UI)                     | Windows 桌面 Mac 化 + 平铺窗口管理                                                                                 |
+| Jwno                                            | [github](https://agent-kilo.github.io/jwno/)                        | 开源 Windows 10/11 平铺窗口管理器                                                                                  |
+| Apple Container                                 | [github](https://github.com/apple/container)                        | Mac 无需 Docker 直接运行 Linux 容器                                                                               |
+| OpenSpeedy                                      | [github](https://github.com/game1024/OpenSpeedy)                    | 开源游戏变速工具                                                                                                  |
+| JSLinux                                         | [JSLinux](https://bellard.org/jslinux/)                             | Fabrice Bellard's JSLinux                                                                                 |
+| Mole                                            | [Mole](https://github.com/tw93/Mole)                                | 开源的 Mac 电脑清理和优化工具                                                                                         |
+| canvas-compress                                 | [canvas-compress](https://jstrieb.github.io/posts/canvas-compress/) | 本文介绍如何在前端，通过 canvas（画布）将数据压缩成一张图片。                                                                        |
+| Valdi                                           | [Valdi](https://github.com/Snapchat/Valdi)                          | SnapChat 发布的 UI 框架，可以用类似 React 的语法编写组件，然后编译成 iOS、Android 和 macOS 的原生应用。                                   |
+| animal-island-ui                                | [animal-island-ui](https://github.com/guokaigdg/animal-island-ui)   | 《动物森友会》风格的 React UI 组件库                                                                                   |
+| Penpot                                          | [Penpot](https://github.com/penpot/penpot)                          | 一个开源的设计工具，可以替代 Figma，将可视化的布局设计转为 CSS + HTML 代码。                                                           |
+| Lore                                            | [Lore](https://github.com/EpicGames/lore)                           | 游戏公司 EpicGames 开源的一个版本管理系统。跟 Git 相比，它的最大特点是为二进制文件提供版本管理。<br><br>它将大型的二进制文件拆分成一个个数据块，进行储存。每次提交，只保存有变动的数据块。 |
+| MyKVM                                           | [MyKVM](https://github.com/XxMinor/mykvm)                           | 源跨平台软件 KVM，在同一局域网内，让 macOS、Windows、Linux 共享一套键盘、鼠标和剪贴板。                                                   |
+| Deno Desktop                                    | [Deno Desktop](https://deno.com/blog/v2.9#deno-desktop)             | Deno 宣布推出 Deno Desktop，可以直接将 Deno 网页应用，打包成桌面的二进制程序，UI 在 Webview 中运行，后端是一个 Deno 运行时                        |
+| OnlyOffice Web Comp                             | [OnlyOffice Web Comp](https://onlyoffice-web-comp.vercel.app/)      | 基于 OnlyOffice 静态 SDK 的浏览器端文档处理方案，网页端完成 Word、Excel、PowerPoint 的查看、编辑与转换，无需后端。                              |
+| Ant                                             | [Ant](https://antjs.org/)                                           | 一种轻量级的 JS/TS 语言运行时，二进制文件只有 8MB。                                                                           |
+| Polycompiler                                    | [Polycompiler](https://github.com/EvanZhouDev/polycompiler)         | 一个有意思的项目，可以把 JS 脚本和 Python 脚本打包成一个脚本，同时能在 JS 环境和 Python 环境运行。                                             |
+| Snitch                                          | [Snitch](https://github.com/aixisstudio/Snitch)                     | 开源的实时网络流量可视化工具，查看你的电脑建立的每一个连接，什么程序正在与谁通信。                                                                 |
+| Pines                                           | [Pines](https://devdojo.com/pines)                                  | 一个基于 Tailwind 的 UI 组件库。                                                                                   |
+| [OpenIDEA](https://github.com/l0ng-ai/openidea) | [OpenIDEA](https://github.com/l0ng-ai/openidea)                     | 一个开源的桌面 IDE，保留 IntelliJ IDEA 的使用习惯，底层用 Rust + Tauri 2 重写。                                                 |
 
 ### 📚 学习资源
 
@@ -171,6 +174,7 @@
 | CanvasCast         | [CanvasCast](https://github.com/nine19een/CanvasCast)                                        | 白板录制的网页应用，在浏览器中直接绘制、演示、录制白板风格的内容                            |
 | ffmpeg webCLI      | [ffmpeg webCLI](https://github.com/tejaswigowda/ffmpeg-webCLI)                               | 一个基于网页的视频编辑器，全部离线操作，底层是 ffmpeg.wasm。                        |
 | 终端控制字符一览表          | [终端控制字符一览表](https://jvns.ca/ascii)                                                           | 命令行可以使用的控制符快捷键（比如快捷键 Ctrl-C 是终止当前命令），一共33个。                 |
+| APPLORE            | [APPLORE](https://applore.app/zh)                                                            | 这个网站收录了 18,000 多个 App 图标，可以分类浏览和搜索。                         |
 
 ---
 
@@ -222,6 +226,7 @@
 | Docker 沙箱                   | [Docker 沙箱](https://www.docker.com/products/docker-sandboxes/)                                      | Docker 官方推出的沙箱工具，把 Docker 容器当作沙箱，让 AI Agent 在里面运行，跟底层系统隔离。                           |
 | CozyClay                    | [CozyClay](https://github.com/NomaDamas/CozyClay)                                                   | 在浏览器中搭建场景框架、摆放角色姿势、编写镜头运动和剪辑，然后交给 AI 视频模型更准确生成视频。                                    |
 | video-ai-talking            | [video-ai-talking](https://github.com/yizhi-chengzi/video-ai-talking)                               | 一个开源 Web 应用，输入文案，生成真人口播视频。                                                           |
+| Everything                  | [Everything](https://github.com/HeyPuter/everything)                                                | 这个 Everything 项目致力于将全世界所有常用软件都用 AI 重写一遍，目前已经完成了几十种。                                  |
 
 ---
 
@@ -268,30 +273,31 @@
 
 ### 😄 趣味 & 娱乐
 
-| 名称                  | 链接                                                                      | 说明                                              |
-| ------------------- | ----------------------------------------------------------------------- | ----------------------------------------------- |
-| 儿童睡前故事              | [beddystories.com](https://beddystories.com/zh)                         | 全球经典儿童睡前故事                                      |
-| AI 佛经               | [rushiwowen.co](https://rushiwowen.co/)                                 | AI 生成佛经                                         |
-| Cat TV              | [cat-tv.net](https://cat-tv.net/)                                       | 在画布上添加动态生物给猫咪看                                  |
-| PetPet GIF          | [petpetgif.com](https://www.petpetgif.com/)                             | 宠物摸头 GIF 生成器                                    |
-| PlayPhrase          | [playphrase.me](https://www.playphrase.me/)                             | 搜索电影台词片段                                        |
-| BongoCat            | [github](https://github.com/ayangweb/BongoCat)                          | 开源桌面宠物，支持多平台                                    |
-| Cam Run             | [github](https://github.com/Jamesun921/cam-run)                         | 对着摄像头的开源跑步游戏                                    |
-| 吉卜力高清图              | [ghibli.jp](https://www.ghibli.jp/works/)                               | 吉卜力官方放出的几百张高清电影图                                |
-| 复古诺基亚               | [chaz.fun](https://chaz.fun/)                                           | 经典诺基亚手机 3D 建模，可开机操作                             |
-| 经典游戏模拟器             | [emulatorgamer.com](https://emulatorgamer.com/games)                    | 老游戏机经典游戏在线游玩                                    |
-| ASCII 月相            | [asciimoon.com](https://asciimoon.com/)                                 | 用 ASCII 展示当天月相                                  |
-| 生命的大小               | [neal.fun](https://neal.fun/size-of-life/)                              | 交互式探索生命大小对比                                     |
-| 赛博朋克元素周期表           | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table)     | 赛博朋克风格元素周期表                                     |
-| guide.world         | [guide.world](https://guide.world/)                                     | 这个网站收集世界各地的优秀游记散文                               |
-| screen.toys         | [screen.toys](https://screen.toys/)                                     | 网页小游戏                                           |
-| 遨游太阳系               | [遨游太阳系](https://sw.icodestar.net/)                                      | 一个基于真实 NASA JPL 星历的浏览器端 1:1 实时太阳系探索应用。          |
-| Awesome Zhuiju Free | [Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free) | 这个仓库收集免费的追剧资源。                                  |
-| How to Draw         | [How to Draw](https://www.howtodraw.ai/)                                | 这个网站有各种小动物的分步绘图指导，适合小朋友使用。                      |
-| 学习下围棋               | [学习下围棋](https://online-go.com/learn-to-play-go)                         | 在线互动围棋教程，从零开始分课讲解。                              |
-| 昆虫世界                | [昆虫世界](https://github.com/xr843/insect-world)                           | 60 种昆虫的 3D 图鉴，可以旋转、缩放、点击标注点，介绍昆虫的身体构造、生活史与生态角色。 |
-| 引力（Gravity）         | [引力（Gravity）](https://github.com/qunabu/Gravity)                        | 一个网页的多媒体教程，向观众介绍万有引力的相关知识。                      |
-| midipiano.app       | [midipiano.app](https://midipiano.app/zh/)                              | 免费的网页版练钢琴应用，电脑连接 MIDI 键盘直接弹，网页显示实时反馈。           |
+| 名称                  | 链接                                                                      | 说明                                                     |
+| ------------------- | ----------------------------------------------------------------------- | ------------------------------------------------------ |
+| 儿童睡前故事              | [beddystories.com](https://beddystories.com/zh)                         | 全球经典儿童睡前故事                                             |
+| AI 佛经               | [rushiwowen.co](https://rushiwowen.co/)                                 | AI 生成佛经                                                |
+| Cat TV              | [cat-tv.net](https://cat-tv.net/)                                       | 在画布上添加动态生物给猫咪看                                         |
+| PetPet GIF          | [petpetgif.com](https://www.petpetgif.com/)                             | 宠物摸头 GIF 生成器                                           |
+| PlayPhrase          | [playphrase.me](https://www.playphrase.me/)                             | 搜索电影台词片段                                               |
+| BongoCat            | [github](https://github.com/ayangweb/BongoCat)                          | 开源桌面宠物，支持多平台                                           |
+| Cam Run             | [github](https://github.com/Jamesun921/cam-run)                         | 对着摄像头的开源跑步游戏                                           |
+| 吉卜力高清图              | [ghibli.jp](https://www.ghibli.jp/works/)                               | 吉卜力官方放出的几百张高清电影图                                       |
+| 复古诺基亚               | [chaz.fun](https://chaz.fun/)                                           | 经典诺基亚手机 3D 建模，可开机操作                                    |
+| 经典游戏模拟器             | [emulatorgamer.com](https://emulatorgamer.com/games)                    | 老游戏机经典游戏在线游玩                                           |
+| ASCII 月相            | [asciimoon.com](https://asciimoon.com/)                                 | 用 ASCII 展示当天月相                                         |
+| 生命的大小               | [neal.fun](https://neal.fun/size-of-life/)                              | 交互式探索生命大小对比                                            |
+| 赛博朋克元素周期表           | [github](https://github.com/SeanWong17/Future-Style-Periodic-Table)     | 赛博朋克风格元素周期表                                            |
+| guide.world         | [guide.world](https://guide.world/)                                     | 这个网站收集世界各地的优秀游记散文                                      |
+| screen.toys         | [screen.toys](https://screen.toys/)                                     | 网页小游戏                                                  |
+| 遨游太阳系               | [遨游太阳系](https://sw.icodestar.net/)                                      | 一个基于真实 NASA JPL 星历的浏览器端 1:1 实时太阳系探索应用。                 |
+| Awesome Zhuiju Free | [Awesome Zhuiju Free](https://github.com/laoma2053/awesome-zhuiju-free) | 这个仓库收集免费的追剧资源。                                         |
+| How to Draw         | [How to Draw](https://www.howtodraw.ai/)                                | 这个网站有各种小动物的分步绘图指导，适合小朋友使用。                             |
+| 学习下围棋               | [学习下围棋](https://online-go.com/learn-to-play-go)                         | 在线互动围棋教程，从零开始分课讲解。                                     |
+| 昆虫世界                | [昆虫世界](https://github.com/xr843/insect-world)                           | 60 种昆虫的 3D 图鉴，可以旋转、缩放、点击标注点，介绍昆虫的身体构造、生活史与生态角色。        |
+| 引力（Gravity）         | [引力（Gravity）](https://github.com/qunabu/Gravity)                        | 一个网页的多媒体教程，向观众介绍万有引力的相关知识。                             |
+| midipiano.app       | [midipiano.app](https://midipiano.app/zh/)                              | 免费的网页版练钢琴应用，电脑连接 MIDI 键盘直接弹，网页显示实时反馈。                  |
+| 一个字的一生              | [一个字的一生](https://ivan666jjj.github.io/yigezi/)                          | 查询汉字字源的网站，可以显示常用字的字形等变化：甲骨文（1425个）、小篆（10,249 个）、繁体、简体。 |
 
 ### 🔧 工具 & 实用
 
